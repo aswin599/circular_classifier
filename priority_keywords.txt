@@ -1,0 +1,62 @@
+PRIORITY_KEYWORDS
+(Defined in server/src/services/classifier.ts)
+
+HIGH (order: 3)
+  Examination:
+    - exam
+    - examination
+    - fee demand
+  Placement:
+    - pre-placement talk
+    - interview
+  General / Urgency:
+    - urgent
+    - immediate
+    - as soon as possible
+    - asap
+    - mandatory
+    - compulsory
+    - deadline
+    - last date
+    - final date
+    - emergency
+
+MEDIUM / NORMAL (order: 2)
+  Events:
+    - inter college event
+    - hackathon
+    - workshop
+    - seminar
+    - symposium
+    - conference
+  Scholarship:
+    - scholarship
+  Placement:
+    - placement drive
+  Academic:
+    - fee payment
+    - pragati
+    - soft skill
+  General:
+    - registration
+    - submission
+    - important
+
+LOW (order: 1)
+  Holiday:
+    - holiday
+    - vacation
+    - closed
+    - break
+    - festival
+  Administrative:
+    - general notice
+    - seniority list
+    - address details
+  Events:
+    - club
+    - sports day
+    - newsletter
+    - interaction session
+  General:
+    - routine

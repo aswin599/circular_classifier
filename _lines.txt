@@ -1,0 +1,778 @@
+==== PAGE 1 ====
+y=  753.2 x0= 232.1 x1= 367.6 [('TimesNewRomanPS-BoldMT', 18.0)] | HEAL N GLOW 
+y=  722.1 x0= 183.4 x1= 416.4 [('TimesNewRomanPS-BoldMT', 18.0)] | WEBSITE DEVELOPMENT 
+y=  678.7 x0= 205.7 x1= 387.1 [('TimesNewRomanPS-BoldMT', 14.0)] | A MINI PROJECT REPORT 
+y=  638.6 x0= 256.5 x1= 341.8 [('Cambria-BoldItalic', 14.0), ('Cambria-Italic', 14.0)] | Submitted by 
+y=  593.0 x0=  90.0 x1= 445.4 [('TimesNewRomanPS-BoldMT', 16.0)] |                        RAMKUMAR G (2403917762221009) 
+y=  574.6 x0= 166.5 x1= 457.5 [('TimesNewRomanPS-BoldMT', 16.0), ('TimesNewRomanPSMT', 16.0)] | YOGESHWARAN R (2403917762221016) 
+y=  512.0 x0= 158.9 x1= 439.9 [('TimesNewRomanPS-BoldItalicMT', 14.0), ('TimesNewRomanPSMT', 14.0)] | in partial fulfillment for the award of the degree 
+y=  479.8 x0= 291.8 x1= 307.0 [('TimesNewRomanPS-BoldItalicMT', 14.0), ('TimesNewRomanPSMT', 14.0)] | of 
+y=  445.8 x0= 148.8 x1= 468.5 [('TimesNewRomanPS-BoldMT', 16.0)] | MASTER OF COMPUTER APPLICATIONS 
+y=  417.3 x0= 292.6 x1= 305.6 [('TimesNewRomanPS-BoldItalicMT', 12.0), ('TimesNewRomanPS-BoldMT', 12.0)] | in 
+y=  385.5 x0= 168.4 x1= 466.4 [('TimesNewRomanPSMT', 14.0)] | DEPARTMENT OF COMPUTER APPLICATIONS 
+y=  336.3 x0=  83.2 x1= 524.9 [('TimesNewRomanPS-BoldMT', 15.0), ('TimesNewRomanPSMT', 15.0)] | THIAGARAJAR COLLEGE OF ENGINEERING, MADURAI – 15 
+y=  323.7 x0= 142.0 x1= 455.8 [('TimesNewRomanPSMT', 10.0)] | (A Government Aided Autonomous Institution Affiliated to Anna University) 
+y=  161.8 x0= 152.6 x1= 446.7 [('TimesNewRomanPS-BoldMT', 16.0)] | ANNA UNIVERSITY: CHENNAI 600 025 
+y=  136.1 x0= 266.4 x1= 333.2 [('TimesNewRomanPS-BoldMT', 14.0), ('TimesNewRomanPS-BoldMT', 17.0)] | NOV 2025 
+==== PAGE 2 ====
+y=  755.1 x0=  79.7 x1= 536.1 [('TimesNewRomanPS-BoldMT', 16.0), ('TimesNewRomanPSMT', 16.0)] | THIAGARAJAR COLLEGE OF ENGINEERING MADURAI-15 
+y=  742.3 x0= 151.0 x1= 464.8 [('TimesNewRomanPSMT', 10.0)] | (A Government Aided Autonomous Institution Affiliated to Anna University) 
+y=  587.3 x0= 207.7 x1= 409.5 [('TimesNewRomanPS-BoldMT', 16.0), ('TimesNewRomanPSMT', 16.0)] | BONAFIDE CERTIFICATE 
+y=  552.3 x0= 108.0 x1= 526.3 [('TimesNewRomanPS-BoldMT', 14.0), ('TimesNewRomanPSMT', 14.0)] | Certified that this project report “Heal n Glow - Website Development” 
+y=  526.3 x0= 108.0 x1= 526.7 [('TimesNewRomanPS-BoldMT', 14.0), ('TimesNewRomanPS-BoldMT', 16.0), ('TimesNewRomanPSMT', 14.0)] | is the bonafide work of “RAMKUMAR G (2403917762221009), 
+y=  498.7 x0= 108.0 x1= 526.4 [('TimesNewRomanPS-BoldMT', 14.0), ('TimesNewRomanPS-BoldMT', 16.0), ('TimesNewRomanPSMT', 14.0)] | YOGESHWARAN R (2403917762221016)” who carried out the 
+y=  473.0 x0= 108.0 x1= 526.4 [('TimesNewRomanPSMT', 14.0)] | Mini project work under my supervision during the Academic Year 
+y=  448.8 x0= 108.0 x1= 175.6 [('TimesNewRomanPSMT', 14.0)] | 2025-2026. 
+y=  373.4 x0= 306.0 x1= 524.8 [('TimesNewRomanPS-BoldMT', 11.0), ('TimesNewRomanPSMT', 11.0)] | SIGNATURE      
+y=  359.9 x0= 306.0 x1= 554.8 [('TimesNewRomanPSMT', 11.0), ('TimesNewRomanPSMT', 12.0)] | Dr.P.Chitra, M.E., Ph.D.,                        
+y=  341.0 x0= 306.0 x1= 426.0 [('TimesNewRomanPS-BoldMT', 10.0), ('TimesNewRomanPSMT', 10.0)] | FACULTY INCHARGE &  
+y=  323.8 x0= 306.0 x1= 518.5 [('TimesNewRomanPS-BoldMT', 10.0), ('TimesNewRomanPSMT', 10.0)] | HEAD OF THE DEPARTMENT                
+y=  306.5 x0= 306.0 x1= 435.4 [('TimesNewRomanPSMT', 10.0)] | COMPUTER APPLICATIONS 
+y=  289.3 x0= 306.0 x1= 537.0 [('TimesNewRomanPSMT', 10.0)] | THIAGARAJAR COLLEGE OF ENGG.                          
+y=  272.0 x0= 306.0 x1= 520.2 [('TimesNewRomanPSMT', 10.0), ('TimesNewRomanPSMT', 11.0)] | MADURAI – 625 015                              
+y=  211.5 x0= 125.5 x1= 493.8 [('TimesNewRomanPSMT', 12.0)] | Submitted for the VIVA VOCE Examination held at Thiagarajar College of  
+y=  190.8 x0= 232.3 x1= 384.0 [('TimesNewRomanPSMT', 12.0)] | Engineering on ……………… 
+y=  101.1 x0= 126.0 x1= 523.3 [('TimesNewRomanPS-BoldMT', 12.0)] | INTERNAL EXAMINER                            EXTERNAL EXAMINER 
+==== PAGE 3 ====
+y=  756.0 x0=  90.0 x1= 198.3 [('TimesNewRomanPS-BoldMT', 15.0)] | Industry Letter: 
+==== PAGE 4 ====
+y=  751.3 x0= 227.8 x1= 390.5 [('TimesNewRomanPS-BoldMT', 20.0), ('TimesNewRomanPSMT', 20.0)] | Acknowledgement 
+y=  698.3 x0=  90.0 x1= 526.5 [('TimesNewRomanPS-BoldMT', 14.0), ('TimesNewRomanPSMT', 14.0)] |   I wish to express my deep sense of gratitude to Dr. L.Ashok Kumar, 
+y=  674.1 x0=  90.0 x1= 526.3 [('TimesNewRomanPS-BoldMT', 14.0), ('TimesNewRomanPSMT', 14.0)] | Principal of Thiagarajar College of Engineering for his support and 
+y=  650.0 x0=  90.0 x1= 345.7 [('TimesNewRomanPSMT', 14.0)] | encouragement throughout this project work. 
+y=  601.7 x0= 126.0 x1= 526.5 [('TimesNewRomanPS-BoldMT', 14.0), ('TimesNewRomanPSMT', 14.0)] | I wish to express my sincere thanks to Dr.P.Chitra, Head of the 
+y=  577.5 x0=  90.0 x1= 515.5 [('TimesNewRomanPSMT', 14.0)] | Department of Computer Applications for her support and ardent guidance. 
+y=  529.2 x0=  90.0 x1= 526.6 [('TimesNewRomanPSMT', 14.0)] |   I owe my special thanks and gratitude to the faculty incharge 
+y=  505.1 x0=  90.0 x1= 526.3 [('TimesNewRomanPSMT', 14.0)] | Dr.P.Chitra Professor, Department of Computer Applications for her 
+y=  481.0 x0=  90.0 x1= 346.1 [('TimesNewRomanPSMT', 14.0)] | guidance and support throughout our project. 
+y=  432.7 x0=  90.0 x1= 526.5 [('TimesNewRomanPSMT', 14.0)] |   I am also indebted to all the teaching and non-teaching staff members 
+y=  408.5 x0=  90.0 x1= 526.5 [('TimesNewRomanPSMT', 14.0)] | of our college for helping us directly or indirectly by all means throughout 
+y=  384.4 x0=  90.0 x1= 323.5 [('TimesNewRomanPSMT', 14.0)] | the course of our study and project work. 
+y=  336.1 x0=  90.0 x1= 526.3 [('TimesNewRomanPSMT', 14.0)] |    I extremely thank my parents, family members and friends for their 
+y=  311.9 x0=  90.0 x1= 371.3 [('TimesNewRomanPSMT', 14.0)] | moral support and encouragement for my project. 
+==== PAGE 5 ====
+y=  745.0 x0= 242.4 x1= 373.9 [('TimesNewRomanPS-BoldMT', 12.0)] | TABLE OF CONTENTS 
+y=  719.1 x0=  90.0 x1= 499.3 [('TimesNewRomanPS-BoldMT', 12.0)] | CHAPTER NO: Title       Page No: 
+y=  693.3 x0=  90.0 x1= 456.3 [('TimesNewRomanPS-BoldMT', 12.0)] |  ABSTRACT  i 
+y=  679.5 x0=  90.0 x1= 459.7 [('TimesNewRomanPS-BoldMT', 12.0)] |   LIST OF FIGURES      ii 
+y=  665.7 x0=  90.0 x1= 463.0 [('TimesNewRomanPS-BoldMT', 12.0)] |   LIST OF ABBREVIATIONS    iii 
+y=  624.3 x0=  90.0 x1= 459.0 [('TimesNewRomanPS-BoldMT', 12.0)] | 1.  INTRODUCTION       1 
+y=  596.7 x0= 162.0 x1= 459.0 [('TimesNewRomanPSMT', 12.0)] | 1.1 INTRODUCTION     1 
+y=  569.1 x0= 162.0 x1= 459.0 [('TimesNewRomanPSMT', 12.0)] | 1.2 ORGANISATION PROFILE    2 
+y=  541.5 x0= 162.0 x1= 459.0 [('TimesNewRomanPSMT', 12.0)] | 1.3 EXISTING SYSTEM      3 
+y=  513.9 x0=  90.0 x1= 459.0 [('TimesNewRomanPS-BoldMT', 12.0), ('TimesNewRomanPSMT', 12.0)] | 2.   PROBLEM DESCRIPTION     4 
+y=  486.3 x0= 162.0 x1= 459.0 [('TimesNewRomanPSMT', 12.0)] | 2.1 PROBLEM STATEMENT     4 
+y=  458.7 x0= 162.0 x1= 459.0 [('TimesNewRomanPSMT', 12.0)] | 2.2 OBJECTIVES       4 
+y=  417.3 x0=  90.0 x1= 459.0 [('TimesNewRomanPS-BoldMT', 12.0), ('TimesNewRomanPSMT', 12.0)] | 3.   SYSTEM REQUIREMENT SPECIFICATION  5 
+y=  389.7 x0=  90.0 x1= 459.0 [('TimesNewRomanPS-BoldMT', 12.0), ('TimesNewRomanPSMT', 12.0)] |   3.1 SCOPE        5 
+y=  362.1 x0=  90.0 x1= 459.0 [('TimesNewRomanPSMT', 12.0)] |   3.2 FUNCTIONAL REQUIREMENTS    5 
+y=  334.5 x0=  90.0 x1= 459.0 [('TimesNewRomanPSMT', 12.0)] |    3.2.1. Software Specification      6 
+y=  306.9 x0=  90.0 x1= 459.0 [('TimesNewRomanPSMT', 12.0)] |   3.2.2. Hardware Specification     7 
+y=  279.3 x0=  90.0 x1= 459.0 [('TimesNewRomanPS-BoldMT', 12.0), ('TimesNewRomanPSMT', 12.0)] | 4.                     PROPOSED SYSTEM      8 
+y=  251.7 x0= 162.0 x1= 459.0 [('TimesNewRomanPSMT', 12.0)] | 4.1 Methodology       8 
+y=  224.1 x0=  90.0 x1= 489.0 [('TimesNewRomanPSMT', 12.0)] |   4.2 Advantages of the proposed System   9  
+y=  182.7 x0=  90.0 x1= 465.0 [('TimesNewRomanPS-BoldMT', 12.0), ('TimesNewRomanPSMT', 12.0)] | 5.  SYSTEM DESIGN       10 
+y=  155.1 x0=  90.0 x1= 465.0 [('TimesNewRomanPSMT', 12.0)] |   5.1 SYSTEM ARCHITECTURE DIAGRAM  10 
+y=  127.5 x0=  90.0 x1= 464.6 [('TimesNewRomanPSMT', 12.0)] |   5.2 DATA FLOW DIAGRAM    11 
+y=   99.9 x0=  90.0 x1= 464.6 [('TimesNewRomanPSMT', 12.0)] |    5.2.1 Level 0 DFD      11 
+==== PAGE 6 ====
+y=  758.8 x0=  90.0 x1= 464.6 [('TimesNewRomanPSMT', 12.0)] |    5.2.2 Level 1 DFD      11 
+y=  731.2 x0=  90.0 x1= 465.0 [('TimesNewRomanPSMT', 12.0)] |    5.2.3 Level 2 DFD      12 
+y=  689.8 x0=  90.0 x1= 465.0 [('TimesNewRomanPSMT', 12.0)] |   5.3  LOGICAL DESIGN USING UML    13 
+y=  662.2 x0=  90.0 x1= 465.0 [('TimesNewRomanPSMT', 12.0)] |    5.3.1 Usecase  Diagram     13 
+y=  620.8 x0=  90.0 x1= 465.0 [('TimesNewRomanPSMT', 12.0)] |   5.4 PHYSICAL DESIGN USING UML    13 
+y=  593.2 x0=  90.0 x1= 465.0 [('TimesNewRomanPSMT', 12.0)] |    5.4.1 Component Diagram     13 
+y=  565.6 x0=  90.0 x1= 465.0 [('TimesNewRomanPSMT', 12.0)] |    5.4.2 Deployment Diagram     14 
+y=  538.0 x0=  90.0 x1= 465.0 [('TimesNewRomanPS-BoldMT', 12.0), ('TimesNewRomanPSMT', 12.0)] | 6. MODULE DESCRIPTION       15 
+y=  510.4 x0=  90.0 x1= 465.0 [('TimesNewRomanPSMT', 12.0)] |   6.1 Home Module       15 
+y=  486.3 x0=  90.0 x1= 465.0 [('TimesNewRomanPSMT', 12.0)] |   6.2 About Us Module       15 
+y=  462.1 x0=  90.0 x1= 465.0 [('TimesNewRomanPSMT', 12.0)] |   6.3 Hotels Module       15 
+y=  438.0 x0=  90.0 x1= 465.0 [('TimesNewRomanPSMT', 12.0)] |   6.4 Hospitals Module       15 
+y=  413.8 x0= 162.0 x1= 465.0 [('TimesNewRomanPSMT', 12.0)] | 6.5 Institutions Module      16 
+y=  389.7 x0= 162.0 x1= 465.0 [('TimesNewRomanPSMT', 12.0)] | 6.6 Accreditation Module      16 
+y=  365.5 x0= 162.0 x1= 465.0 [('TimesNewRomanPSMT', 12.0)] | 6.7 Product Module       16 
+y=  341.4 x0= 162.0 x1= 465.0 [('TimesNewRomanPSMT', 12.0)] | 6.8 Testimonials Module      16 
+y=  317.2 x0= 162.0 x1= 465.0 [('TimesNewRomanPSMT', 12.0)] | 6.9 Contact Module       16 
+y=  279.3 x0=  90.0 x1= 465.0 [('TimesNewRomanPS-BoldMT', 12.0), ('TimesNewRomanPSMT', 12.0)] | 7. RESULTS AND IMPLEMENTATION     17 
+y=  251.7 x0=  90.0 x1= 465.0 [('TimesNewRomanPS-BoldMT', 12.0), ('TimesNewRomanPSMT', 12.0)] | 8. CONCLUSIONS        25 
+y=  224.1 x0=  90.0 x1= 465.0 [('TimesNewRomanPS-BoldMT', 12.0), ('TimesNewRomanPSMT', 12.0)] | 9.  BIBLIOGRAPHY        27 
+y=  196.5 x0=  90.0 x1= 465.0 [('TimesNewRomanPS-BoldMT', 12.0), ('TimesNewRomanPSMT', 12.0)] | 10.  APPENDICES       28 
+y=  168.9 x0=  90.0 x1= 465.1 [('ArialMT', 11.0), ('TimesNewRomanPSMT', 12.0)] |   10.1  APPENDIX –A PROJECT SCREEN SHOTS  28 
+==== PAGE 7 ====
+y=  745.7 x0= 269.4 x1= 354.1 [('TimesNewRomanPS-BoldMT', 15.0), ('TimesNewRomanPS-BoldMT', 20.0), ('TimesNewRomanPS-BoldMT', 26.0)] | Abstract  
+y=  700.1 x0= 126.0 x1= 526.7 [('TimesNewRomanPSMT', 14.0)] | In the modern digital era, having an engaging and responsive website 
+y=  681.6 x0=  90.0 x1= 526.5 [('TimesNewRomanPSMT', 14.0)] | has become essential for every business, especially startups striving to build 
+y=  663.1 x0=  90.0 x1= 526.6 [('TimesNewRomanPS-ItalicMT', 14.0), ('TimesNewRomanPSMT', 14.0)] | their brand identity and reach a wider audience. Heal N Glow is a 
+y=  644.5 x0=  90.0 x1= 526.5 [('TimesNewRomanPSMT', 14.0)] | wellness-based startup company focused on promoting natural beauty and 
+y=  626.0 x0=  90.0 x1= 526.0 [('TimesNewRomanPSMT', 14.0)] | self-care through eco-friendly and organic skincare products. The company 
+y=  607.5 x0=  90.0 x1= 526.8 [('TimesNewRomanPSMT', 14.0)] | recognized the need for a dedicated online platform that could effectively 
+y=  589.0 x0=  90.0 x1= 526.3 [('TimesNewRomanPSMT', 14.0)] | represent its values, showcase its range of products, and connect with 
+y=  570.5 x0=  90.0 x1= 526.2 [('TimesNewRomanPS-ItalicMT', 14.0), ('TimesNewRomanPSMT', 14.0)] | potential customers. This necessity led to the development of the Heal N 
+y=  552.0 x0=  90.0 x1= 526.5 [('TimesNewRomanPS-ItalicMT', 14.0), ('TimesNewRomanPSMT', 14.0)] | Glow Website, a professional, user-friendly, and responsive web platform 
+y=  533.5 x0=  90.0 x1= 526.2 [('TimesNewRomanPSMT', 14.0)] | designed to enhance the company’s digital presence and serve as a primary 
+y=  514.9 x0=  90.0 x1= 344.5 [('TimesNewRomanPSMT', 14.0)] | channel of communication with its audience. 
+y=  484.4 x0= 126.0 x1= 526.5 [('TimesNewRomanPS-ItalicMT', 14.0), ('TimesNewRomanPSMT', 14.0)] | The Heal N Glow Website has been designed and implemented as a 
+y=  465.9 x0=  90.0 x1= 526.7 [('TimesNewRomanPS-BoldMT', 14.0), ('TimesNewRomanPSMT', 14.0)] | frontend-only web application using modern web technologies such as 
+y=  447.4 x0=  90.0 x1= 526.3 [('TimesNewRomanPS-BoldMT', 14.0), ('TimesNewRomanPSMT', 14.0)] | HTML5, CSS3, JavaScript (ES6), and React.js. React was chosen for its 
+y=  428.9 x0=  90.0 x1= 526.2 [('TimesNewRomanPSMT', 14.0)] | component-based architecture, efficient rendering through the virtual DOM, 
+y=  410.4 x0=  90.0 x1= 526.0 [('TimesNewRomanPSMT', 14.0)] | and scalability for future enhancements. The design focuses on aesthetics, 
+y=  391.9 x0=  90.0 x1= 526.0 [('TimesNewRomanPSMT', 14.0)] | simplicity, and usability, ensuring a seamless browsing experience across 
+y=  373.4 x0=  90.0 x1= 526.2 [('TimesNewRomanPS-BoldMT', 14.0), ('TimesNewRomanPSMT', 14.0)] | devices. Tools like Figma were used for interface design and prototyping, 
+y=  354.8 x0=  90.0 x1= 526.6 [('TimesNewRomanPSMT', 14.0)] | while responsive design techniques ensure compatibility on mobile, tablet, 
+y=  336.3 x0=  90.0 x1= 526.4 [('TimesNewRomanPSMT', 14.0)] | and desktop platforms. The website includes multiple sections—Home, 
+y=  317.8 x0=  90.0 x1= 526.3 [('TimesNewRomanPSMT', 14.0)] | About, Products, Testimonials, and Contact—that together create a cohesive 
+y=  299.3 x0=  90.0 x1= 404.4 [('TimesNewRomanPS-ItalicMT', 14.0), ('TimesNewRomanPSMT', 14.0)] | and professional brand representation for Heal N Glow. 
+y=  268.8 x0= 126.0 x1= 526.3 [('TimesNewRomanPSMT', 14.0)] | Deploying this project offers multiple advantages for the startup. It 
+y=  250.3 x0=  90.0 x1= 526.5 [('TimesNewRomanPSMT', 14.0)] | provides a cost-effective and efficient solution for building brand visibility 
+y=  231.8 x0=  90.0 x1= 526.3 [('TimesNewRomanPSMT', 14.0)] | and trust among customers without requiring complex backend systems. The 
+y=  213.2 x0=  90.0 x1= 526.7 [('TimesNewRomanPSMT', 14.0)] | project also lays the foundation for future enhancements such as integrating a 
+y=  194.7 x0=  90.0 x1= 526.7 [('TimesNewRomanPSMT', 14.0)] | backend with a database, enabling e-commerce functionalities like online 
+y=  176.2 x0=  90.0 x1= 526.7 [('TimesNewRomanPSMT', 14.0)] | product ordering, user authentication, and content management. In the long 
+y=  157.7 x0=  90.0 x1= 526.1 [('TimesNewRomanPSMT', 14.0)] | term, features such as SEO optimization, chat support, and analytics 
+y=  139.2 x0=  90.0 x1= 526.5 [('TimesNewRomanPSMT', 14.0)] | integration can further improve customer engagement and marketing 
+y=  120.7 x0=  90.0 x1= 526.7 [('TimesNewRomanPS-ItalicMT', 14.0), ('TimesNewRomanPSMT', 14.0)] | performance. Thus, the “Heal N Glow Website” not only serves as a 
+y=  102.2 x0=  90.0 x1= 526.4 [('TimesNewRomanPSMT', 14.0)] | present-day branding tool but also as a scalable framework for the 
+y=   83.7 x0=  90.0 x1= 290.1 [('ArialMT', 11.0), ('TimesNewRomanPSMT', 14.0)] | company’s future digital expansion 
+y=   40.4 x0= 305.0 x1= 311.3 [('TimesNewRomanPSMT', 12.0)] | i 
+==== PAGE 8 ====
+y=  744.3 x0= 255.0 x1= 361.3 [('TimesNewRomanPS-BoldMT', 12.0)] | LIST OF FIGURES 
+y=  701.7 x0= 109.4 x1= 512.8 [('TimesNewRomanPS-BoldMT', 12.0)] | Figure Index. Title of the Figure Page No. 
+y=  657.4 x0= 136.5 x1= 496.1 [('TimesNewRomanPSMT', 12.0)] | 5.1 System Architecture Diagram 10 
+y=  613.2 x0= 132.0 x1= 495.9 [('TimesNewRomanPSMT', 12.0)] | 5.2.1 Data Flow Diagram – Level 0 11 
+y=  568.9 x0= 132.0 x1= 495.9 [('TimesNewRomanPSMT', 12.0)] | 5.2.2 Data Flow Diagram – Level 1 11 
+y=  524.7 x0= 132.0 x1= 496.1 [('TimesNewRomanPSMT', 12.0)] | 5.2.3 Data Flow Diagram – Level 2 12 
+y=  480.4 x0= 132.0 x1= 496.1 [('TimesNewRomanPSMT', 12.0)] | 5.3.1 Usecase Diagram 13 
+y=  436.2 x0= 132.0 x1= 496.1 [('TimesNewRomanPSMT', 12.0)] | 5.4.1 Component Diagram 13 
+y=  391.9 x0= 132.0 x1= 496.1 [('TimesNewRomanPSMT', 12.0)] | 5.4.2 Deployment Diagram 14 
+y=   40.4 x0= 303.3 x1= 313.0 [('TimesNewRomanPSMT', 12.0)] | ii 
+==== PAGE 9 ====
+y=  758.8 x0= 231.7 x1= 384.5 [('TimesNewRomanPS-BoldMT', 12.0)] | LIST OF ABBREVIATIONS 
+y=  722.9 x0= 106.7 x1= 436.0 [('TimesNewRomanPS-BoldMT', 12.0)] | S.No Abbreviation Full Form 
+y=  693.4 x0= 115.9 x1= 443.2 [('TimesNewRomanPSMT', 12.0)] | 1 HTML HyperText Markup Language 
+y=  663.9 x0= 115.9 x1= 412.7 [('TimesNewRomanPSMT', 12.0)] | 2 CSS Cascading Style Sheets 
+y=  634.3 x0= 115.9 x1= 350.7 [('TimesNewRomanPSMT', 12.0)] | 3 JS JavaScript 
+y=  604.8 x0= 115.9 x1= 403.0 [('TimesNewRomanPSMT', 12.0)] | 4 PaaS Platform as a Service 
+y=  575.2 x0= 115.9 x1= 369.0 [('TimesNewRomanPSMT', 12.0)] | 5 UI User Interface 
+y=  545.7 x0= 115.9 x1= 380.4 [('TimesNewRomanPSMT', 12.0)] | 6 UX User Experience 
+y=  516.1 x0= 115.9 x1= 472.0 [('TimesNewRomanPSMT', 12.0)] | 7 API Application Programming Interface 
+y=  486.6 x0= 115.9 x1= 396.1 [('TimesNewRomanPSMT', 12.0)] | 8 DFD Data Flow Diagram 
+y=  457.0 x0= 115.9 x1= 437.4 [('TimesNewRomanPSMT', 12.0)] | 9 UML Unified Modeling Language 
+y=  427.5 x0= 112.9 x1= 482.7 [('TimesNewRomanPSMT', 12.0)] | 10 IDE Integrated Development Environment 
+y=  397.9 x0= 113.1 x1= 444.5 [('TimesNewRomanPSMT', 12.0)] | 11 ISO International Organization for 
+y=  384.1 x0= 297.8 x1= 376.1 [('TimesNewRomanPSMT', 12.0)] | Standardization 
+y=  354.6 x0= 112.9 x1= 394.0 [('TimesNewRomanPSMT', 12.0)] | 12 VS Code Visual Studio Code 
+y=  325.0 x0= 112.9 x1= 433.6 [('TimesNewRomanPSMT', 12.0)] | 13 Git Global Information Tracker 
+y=  295.5 x0= 112.9 x1= 401.4 [('TimesNewRomanPSMT', 12.0)] | 14 B2B Business to Business 
+y=  265.9 x0= 112.9 x1= 436.7 [('TimesNewRomanPSMT', 12.0)] | 15 SEO Search Engine Optimization 
+y=   40.4 x0= 301.6 x1= 314.6 [('TimesNewRomanPSMT', 12.0)] | iii 
+==== PAGE 10 ====
+y=  756.0 x0=  90.0 x1= 232.5 [('TimesNewRomanPS-BoldMT', 15.0)] | 1. INTRODUCTION  
+y=  724.3 x0=  90.0 x1= 210.0 [('TimesNewRomanPS-BoldMT', 12.0)] | 1.1 INTRODUCTION  
+y=  694.6 x0=  90.0 x1= 141.3 [('TimesNewRomanPS-BoldMT', 14.0)] | React.js 
+y=  666.0 x0= 126.0 x1= 526.1 [('TimesNewRomanPS-BoldMT', 12.0), ('TimesNewRomanPSMT', 12.0)] | The core technology used in this project is React.js, a JavaScript library 
+y=  650.1 x0=  90.0 x1= 526.0 [('TimesNewRomanPSMT', 12.0)] | developed by Facebook for building dynamic and reusable user interface components. 
+y=  634.3 x0=  90.0 x1= 526.1 [('TimesNewRomanPSMT', 12.0)] | React simplifies the development of large web applications by allowing developers to 
+y=  618.4 x0=  90.0 x1= 526.2 [('TimesNewRomanPS-BoldMT', 12.0), ('TimesNewRomanPSMT', 12.0)] | break the UI into independent, reusable pieces called components. It uses a Virtual DOM 
+y=  602.5 x0=  90.0 x1= 525.5 [('TimesNewRomanPSMT', 12.0)] | to efficiently update only the necessary parts of a webpage, improving performance and 
+y=  586.6 x0=  90.0 x1= 525.9 [('TimesNewRomanPSMT', 12.0)] | speed. React’s declarative nature makes the code more predictable and easier to debug, 
+y=  570.8 x0=  90.0 x1= 478.8 [('TimesNewRomanPSMT', 12.0)] | while its component-based architecture enhances maintainability and scalability. 
+y=  539.0 x0=  90.0 x1= 194.9 [('TimesNewRomanPS-BoldMT', 14.0)] | JavaScript (ES6) 
+y=  510.4 x0= 126.0 x1= 526.2 [('TimesNewRomanPS-BoldMT', 12.0), ('TimesNewRomanPSMT', 12.0)] | JavaScript, particularly the ES6 (ECMAScript 2015) version, adds interactivity 
+y=  494.5 x0=  90.0 x1= 525.5 [('TimesNewRomanPSMT', 12.0)] | and logical control to the website. ES6 introduces features like arrow functions, template 
+y=  478.7 x0=  90.0 x1= 526.0 [('TimesNewRomanPSMT', 12.0)] | literals, and modular imports/exports that make the code more concise and maintainable. 
+y=  462.8 x0=  90.0 x1= 525.7 [('TimesNewRomanPSMT', 12.0)] | JavaScript is used to handle user events, update the DOM dynamically, and integrate 
+y=  446.9 x0=  90.0 x1= 525.6 [('TimesNewRomanPSMT', 12.0)] | different components of the website seamlessly, ensuring real-time responsiveness within 
+y=  431.1 x0=  90.0 x1= 162.6 [('TimesNewRomanPSMT', 12.0)] | the client side. 
+y=  399.3 x0=  90.0 x1= 247.4 [('TimesNewRomanPS-BoldMT', 14.0)] | GitHub for Collaboration 
+y=  370.7 x0= 126.0 x1= 525.6 [('TimesNewRomanPS-BoldMT', 12.0), ('TimesNewRomanPSMT', 12.0)] | GitHub played a crucial role in version control and collaborative development 
+y=  354.8 x0=  90.0 x1= 525.6 [('TimesNewRomanPSMT', 12.0)] | during the project. The development team utilized GitHub repositories to store the source 
+y=  338.9 x0=  90.0 x1= 525.9 [('TimesNewRomanPSMT', 12.0)] | code, manage branches, and track changes. Using GitHub ensured a streamlined 
+y=  323.1 x0=  90.0 x1= 526.2 [('TimesNewRomanPSMT', 12.0)] | workflow, reduced conflicts in collaborative environments, and allowed for continuous 
+y=  307.2 x0=  90.0 x1= 361.9 [('TimesNewRomanPSMT', 12.0)] | integration and updates throughout the project lifecycle. 
+y=  275.5 x0=  90.0 x1= 304.5 [('TimesNewRomanPS-BoldMT', 14.0)] | Vercel Platform as a Service (PaaS) 
+y=  246.8 x0= 126.0 x1= 525.7 [('TimesNewRomanPS-BoldMT', 12.0), ('TimesNewRomanPSMT', 12.0)] | The completed website was hosted using Vercel, a modern cloud platform 
+y=  230.9 x0=  90.0 x1= 526.2 [('TimesNewRomanPSMT', 12.0)] | designed for deploying frontend applications. Vercel offers a seamless integration with 
+y=  215.1 x0=  90.0 x1= 525.7 [('TimesNewRomanPSMT', 12.0)] | GitHub, enabling automatic deployment whenever new changes are pushed to the main 
+y=  199.2 x0=  90.0 x1= 526.2 [('TimesNewRomanPSMT', 12.0)] | branch. It provides fast global content delivery through its CDN (Content Delivery 
+y=  183.3 x0=  90.0 x1= 525.6 [('TimesNewRomanPSMT', 12.0)] | Network), ensuring low latency and high availability. The simplicity of Vercel’s 
+y=  167.5 x0=  90.0 x1= 525.5 [('TimesNewRomanPSMT', 12.0)] | deployment pipeline made it an ideal choice for this project, offering scalability, 
+y=  151.6 x0=  90.0 x1= 449.1 [('TimesNewRomanPSMT', 12.0)] | reliability, and secure hosting without the need for complex configuration. 
+y=   40.4 x0= 303.6 x1= 312.6 [('TimesNewRomanPSMT', 12.0)] | 1 
+==== PAGE 11 ====
+y=  758.8 x0=  90.0 x1= 261.8 [('TimesNewRomanPS-BoldMT', 12.0)] | 1.2 ORGANISATION PROFILE 
+y=  733.0 x0= 126.0 x1= 525.6 [('TimesNewRomanPS-BoldMT', 12.0), ('TimesNewRomanPSMT', 12.0)] | Heal N Glow Pvt. Ltd. is a wellness and skincare startup established in 2024 in 
+y=  717.1 x0=  90.0 x1= 526.2 [('TimesNewRomanPSMT', 12.0)] | Tamil Nadu, India. The company focuses on manufacturing and promoting natural, 
+y=  701.3 x0=  90.0 x1= 526.0 [('TimesNewRomanPSMT', 12.0)] | eco-friendly, and organic skincare and personal care products. It aims to provide safe, 
+y=  685.4 x0=  90.0 x1= 525.5 [('TimesNewRomanPSMT', 12.0)] | effective, and cruelty-free beauty solutions that promote self-care and sustainable living. 
+y=  669.5 x0=  90.0 x1= 525.6 [('TimesNewRomanPSMT', 12.0)] | The brand operates primarily through online platforms, following a digital-first business 
+y=  653.7 x0=  90.0 x1= 525.7 [('TimesNewRomanPSMT', 12.0)] | model that enables it to reach customers across different regions through its social media 
+y=  637.8 x0=  90.0 x1= 138.0 [('TimesNewRomanPSMT', 12.0)] | presence. 
+y=  609.9 x0= 126.0 x1= 526.3 [('TimesNewRomanPSMT', 12.0)] | The vision of Heal N Glow is to become a trusted and leading name in the organic 
+y=  594.0 x0=  90.0 x1= 525.7 [('TimesNewRomanPSMT', 12.0)] | skincare industry by delivering products that combine traditional wellness practices with 
+y=  578.2 x0=  90.0 x1= 526.1 [('TimesNewRomanPSMT', 12.0)] | modern skincare science. Its mission is to create awareness about the importance of 
+y=  562.3 x0=  90.0 x1= 525.9 [('TimesNewRomanPSMT', 12.0)] | natural ingredients and to encourage consumers to adopt healthier and more sustainable 
+y=  546.4 x0=  90.0 x1= 526.3 [('TimesNewRomanPS-BoldMT', 12.0), ('TimesNewRomanPSMT', 12.0)] | beauty routines. The company emphasizes three core values—Purity, Sustainability, and 
+y=  530.6 x0=  90.0 x1= 526.1 [('TimesNewRomanPS-BoldMT', 12.0), ('TimesNewRomanPSMT', 12.0)] | Transparency—which guide every stage of its product development and marketing 
+y=  514.7 x0=  90.0 x1= 132.0 [('TimesNewRomanPSMT', 12.0)] | process. 
+y=  486.8 x0= 126.0 x1= 526.1 [('TimesNewRomanPSMT', 12.0)] | Heal N Glow offers a diverse range of skincare and self-care products, including 
+y=  471.0 x0=  90.0 x1= 526.0 [('TimesNewRomanPSMT', 12.0)] | facial creams, gels, cleansers, face masks, lip balms, and wellness kits. All products are 
+y=  455.1 x0=  90.0 x1= 526.2 [('TimesNewRomanPSMT', 12.0)] | formulated using plant-based ingredients and are free from harmful chemicals such as 
+y=  439.2 x0=  90.0 x1= 526.1 [('TimesNewRomanPSMT', 12.0)] | parabens, sulfates, and artificial fragrances. The brand focuses on creating affordable yet 
+y=  423.4 x0=  90.0 x1= 526.0 [('TimesNewRomanPSMT', 12.0)] | premium-quality products that cater to the growing demand for clean and green beauty 
+y=  407.5 x0=  90.0 x1= 139.3 [('TimesNewRomanPSMT', 12.0)] | solutions. 
+y=  379.6 x0= 126.0 x1= 525.6 [('TimesNewRomanPSMT', 12.0)] | Heal N Glow’s strengths lie in its commitment to sustainability, product 
+y=  363.8 x0=  90.0 x1= 525.9 [('TimesNewRomanPSMT', 12.0)] | authenticity, and customer satisfaction. The startup operates with a lean business model 
+y=  347.9 x0=  90.0 x1= 526.2 [('TimesNewRomanPSMT', 12.0)] | that allows quick adaptation to changing market needs. By emphasizing eco-friendly 
+y=  332.0 x0=  90.0 x1= 525.8 [('TimesNewRomanPSMT', 12.0)] | packaging, ethical sourcing, and transparency, the company aligns itself with global 
+y=  316.2 x0=  90.0 x1= 246.2 [('TimesNewRomanPSMT', 12.0)] | standards of responsible beauty. 
+y=  288.3 x0= 126.0 x1= 526.0 [('TimesNewRomanPSMT', 12.0)] | In the long term, Heal N Glow aims to expand its product line and introduce 
+y=  272.4 x0=  90.0 x1= 526.0 [('TimesNewRomanPSMT', 12.0)] | advanced skincare solutions while retaining its core principles of natural wellness. The 
+y=  256.5 x0=  90.0 x1= 525.7 [('TimesNewRomanPSMT', 12.0)] | company also plans to strengthen its digital ecosystem through improved website 
+y=  240.7 x0=  90.0 x1= 525.7 [('TimesNewRomanPSMT', 12.0)] | features, customer relationship management tools, and data-driven marketing strategies. 
+y=  224.8 x0=  90.0 x1= 526.0 [('TimesNewRomanPSMT', 12.0)] | In addition to retail and direct consumer sales, Heal N Glow seeks to establish 
+y=  208.9 x0=  90.0 x1= 526.0 [('TimesNewRomanPSMT', 12.0)] | partnerships with hotels, resorts, and wellness centers by supplying premium skincare and 
+y=  193.1 x0=  90.0 x1= 526.3 [('TimesNewRomanPSMT', 12.0)] | hospitality amenities tailored for the hospitality industry. With its strong foundation, 
+y=  177.2 x0=  90.0 x1= 526.0 [('TimesNewRomanPSMT', 12.0)] | sustainable practices, and innovative approach, Heal N Glow continues to establish itself 
+y=  161.3 x0=  90.0 x1= 436.0 [('TimesNewRomanPSMT', 12.0)] | as a promising and growing name in the Indian organic wellness sector. 
+y=   40.4 x0= 303.6 x1= 312.6 [('TimesNewRomanPSMT', 12.0)] | 2 
+==== PAGE 12 ====
+y=  758.8 x0=  90.0 x1= 222.0 [('TimesNewRomanPS-BoldMT', 12.0)] | 1.3 EXISTING SYSTEM 
+y=  712.5 x0=  96.8 x1= 560.0 [('Calibri-Bold', 12.0)] | Module State-of-art solution Drawbacks of the Features proposed to 
+y=  697.8 x0=  96.8 x1= 503.1 [('ArialMT', 8.0), ('Calibri-Bold', 12.0)] | description available solution overcome 
+y=  675.7 x0=  96.8 x1= 570.0 [('ArialMT', 8.0), ('Calibri', 12.0)] | Home Instagram posts and A well-designed landing 
+y=  671.9 x0= 323.2 x1= 403.3 [('Calibri', 12.0)] | Limited product 
+y=  661.0 x0= 183.0 x1= 567.7 [('ArialMT', 8.0), ('Calibri', 12.0)] | highlights page showcasing brand 
+y=  657.3 x0= 323.2 x1= 387.1 [('Calibri', 12.0)] | visibility, not 
+y=  646.4 x0= 451.5 x1= 564.1 [('Calibri', 12.0)] | overview and featured 
+y=  642.6 x0= 323.2 x1= 376.2 [('ArialMT', 8.0), ('Calibri', 12.0)] | structured 
+y=  631.7 x0= 451.5 x1= 496.7 [('ArialMT', 8.0), ('Calibri', 12.0)] | products 
+y=  609.6 x0=  96.8 x1= 529.7 [('ArialMT', 8.0), ('Calibri', 12.0)] | About Us Social media bio or No detailed brand story Dedicated page 
+y=  594.9 x0= 183.0 x1= 571.9 [('ArialMT', 8.0), ('Calibri', 12.0)] | occasional posts or mission shared highlighting brand story, 
+y=  580.3 x0= 451.5 x1= 548.3 [('ArialMT', 8.0), ('Calibri', 12.0)] | mission, and values 
+y=  558.1 x0=  96.8 x1= 557.9 [('ArialMT', 8.0), ('Calibri', 12.0)] | Accreditations Certifications needs to be Trust-building is slow Dedicated section for 
+y=  543.5 x0= 183.0 x1= 563.4 [('ArialMT', 8.0), ('Calibri', 12.0)] | shared manually and lacks visibility government approvals 
+y=  528.8 x0= 451.5 x1= 574.4 [('Calibri', 12.0)] | and quality certifications 
+y=  506.4 x0=  96.8 x1= 418.4 [('Calibri', 12.0)] | Hotels/ No separate showcase Customers in these 
+y=  499.0 x0= 451.5 x1= 569.1 [('Calibri', 12.0)] | Single module grouping 
+y=  491.7 x0=  96.8 x1= 426.3 [('ArialMT', 8.0), ('Calibri', 12.0)] | Hospitals / online sectors cannot easily 
+y=  484.4 x0= 451.5 x1= 550.7 [('Calibri', 12.0)] | solutions for hotels, 
+y=  477.1 x0=  96.8 x1= 403.5 [('ArialMT', 8.0), ('Calibri', 12.0)] | Institutions browse relevant 
+y=  469.8 x0= 451.5 x1= 579.3 [('Calibri', 12.0)] | hospitals, and institutions 
+y=  462.4 x0= 322.5 x1= 434.5 [('Calibri', 12.0)] | products or bulk order 
+y=  455.1 x0= 451.5 x1= 578.4 [('ArialMT', 8.0), ('Calibri', 12.0)] | with tailored product lists 
+y=  447.8 x0= 322.5 x1= 361.4 [('ArialMT', 8.0), ('Calibri', 12.0)] | options 
+y=  425.6 x0= 322.5 x1= 562.6 [('Calibri', 12.0)] | Hard to explore all Organized gallery with 
+y=  418.3 x0= 183.0 x1= 309.2 [('Calibri', 12.0)] | Low showcase of product 
+y=  411.0 x0=  96.8 x1= 550.2 [('ArialMT', 8.0), ('Calibri', 12.0)] | Products products/events product photos and 
+y=  403.7 x0= 183.0 x1= 293.3 [('ArialMT', 8.0), ('Calibri', 12.0)] | image on social media 
+y=  396.3 x0= 322.5 x1= 488.8 [('ArialMT', 8.0), ('Calibri', 12.0)] | visually events. 
+y=  374.2 x0= 183.0 x1= 578.8 [('Calibri', 12.0)] | Occasional customer Testimonials module with 
+y=  366.9 x0= 322.5 x1= 417.2 [('Calibri', 12.0)] | No central place to 
+y=  359.5 x0=  96.8 x1= 552.3 [('ArialMT', 8.0), ('Calibri', 12.0)] | Testimonials comments on posts/ curated reviews and 
+y=  352.2 x0= 322.5 x1= 418.8 [('ArialMT', 8.0), ('Calibri', 12.0)] | showcase feedback 
+y=  344.9 x0= 183.0 x1= 525.3 [('ArialMT', 8.0), ('Calibri', 12.0)] | shared on Story. success stories 
+y=  322.7 x0= 451.5 x1= 569.9 [('Calibri', 12.0)] | Integrated contact page 
+y=  315.4 x0= 322.5 x1= 433.1 [('Calibri', 12.0)] | Lacks professionalism, 
+y=  308.1 x0= 451.5 x1= 541.9 [('Calibri', 12.0)] | with inquiry form, 
+y=  300.8 x0= 183.0 x1= 434.0 [('Calibri', 12.0)] | Calls / Whatsapp / inconsistent response, 
+y=  293.4 x0=  96.8 x1= 554.7 [('Calibri', 12.0)] | Contact business details, and 
+y=  286.1 x0= 183.0 x1= 426.7 [('Calibri', 12.0)] | Instagram Messages and no unified query 
+y=  278.8 x0= 451.5 x1= 555.8 [('Calibri', 12.0)] | social media links for 
+y=  271.5 x0= 322.5 x1= 356.8 [('Calibri', 12.0)] | record 
+y=  264.1 x0= 451.5 x1= 560.9 [('Calibri', 12.0)] | direct communication 
+y=   40.4 x0= 303.6 x1= 312.6 [('TimesNewRomanPSMT', 12.0)] | 3 
+==== PAGE 13 ====
+y=  756.9 x0=  90.0 x1= 278.9 [('TimesNewRomanPS-BoldMT', 14.0)] | 2. PROBLEM DESCRIPTION 
+y=  733.5 x0=  90.0 x1= 248.2 [('TimesNewRomanPS-BoldMT', 12.0)] | 2.1 PROBLEM STATEMENT 
+y=  707.7 x0= 126.0 x1= 526.2 [('TimesNewRomanPSMT', 12.0)] | In the current digital era, an effective online presence plays a crucial role in the 
+y=  693.9 x0=  90.0 x1= 526.0 [('TimesNewRomanPSMT', 12.0)] | success of any business, especially for startups in the beauty  and  wellness  industry. 
+y=  680.1 x0=  90.0 x1= 526.2 [('TimesNewRomanPS-ItalicMT', 12.0), ('TimesNewRomanPSMT', 12.0)] | Heal N Glow, a Dindigul-based Ayurvedic skincare brand, currently relies solely on 
+y=  666.3 x0=  90.0 x1= 525.7 [('TimesNewRomanPSMT', 12.0)] | Instagram to showcase its products and engage with customers. While social media helps 
+y=  652.5 x0=  90.0 x1= 526.1 [('TimesNewRomanPSMT', 12.0)] | reach audiences quickly, it lacks the structured presentation and functionality of a 
+y=  638.7 x0=  90.0 x1= 526.1 [('TimesNewRomanPSMT', 12.0)] | dedicated website. As a result, customers face limitations in exploring the complete 
+y=  624.9 x0=  90.0 x1= 526.2 [('TimesNewRomanPSMT', 12.0)] | product range, understanding their detailed benefits, or learning about the brand’s 
+y=  611.1 x0=  90.0 x1= 228.5 [('TimesNewRomanPSMT', 12.0)] | philosophy and authenticity. 
+y=  585.3 x0= 126.0 x1= 526.2 [('TimesNewRomanPSMT', 12.0)] | The absence of a centralized digital platform also restricts opportunities for 
+y=  571.5 x0=  90.0 x1= 526.0 [('TimesNewRomanPSMT', 12.0)] | customer education, feedback collection, and sustained sales growth. Hence, there is a 
+y=  557.7 x0=  90.0 x1= 526.2 [('TimesNewRomanPSMT', 12.0)] | need to develop a professional, user-friendly, and visually appealing website that can act 
+y=  543.9 x0=  90.0 x1= 526.0 [('TimesNewRomanPS-ItalicMT', 12.0), ('TimesNewRomanPSMT', 12.0)] | as a comprehensive digital storefront for Heal N Glow, reflecting the brand’s identity and 
+y=  530.1 x0=  90.0 x1= 224.9 [('TimesNewRomanPSMT', 12.0)] | enhancing its market reach. 
+y=  498.3 x0=  90.0 x1= 187.0 [('TimesNewRomanPS-BoldMT', 12.0)] | 2.2 OBJECTIVES 
+y=  472.5 x0= 108.0 x1= 525.6 [('ArialMT', 12.0), ('TimesNewRomanPSMT', 12.0)] | ● To design and develop a modern, responsive React-based website that effectively 
+y=  458.7 x0= 126.0 x1= 295.0 [('TimesNewRomanPS-ItalicMT', 12.0), ('TimesNewRomanPSMT', 12.0)] | represents the Heal N Glow brand. 
+y=  431.0 x0= 108.0 x1= 526.2 [('ArialMT', 12.0), ('TimesNewRomanPSMT', 12.0)] | ● To showcase all products with detailed descriptions, usage instructions, and 
+y=  417.2 x0= 126.0 x1= 359.7 [('TimesNewRomanPSMT', 12.0)] | benefits in a structured and user-friendly layout. 
+y=  389.6 x0= 108.0 x1= 525.9 [('ArialMT', 12.0), ('TimesNewRomanPSMT', 12.0)] | ● To include sections for the brand story, customer testimonials, and contact 
+y=  375.8 x0= 126.0 x1= 379.9 [('TimesNewRomanPSMT', 12.0)] | information to improve brand trust and engagement. 
+y=  348.1 x0= 108.0 x1= 526.1 [('ArialMT', 12.0), ('TimesNewRomanPSMT', 12.0)] | ● To integrate visually rich components that align with the brand’s aesthetic values 
+y=  334.3 x0= 126.0 x1= 267.9 [('TimesNewRomanPSMT', 12.0)] | and promote a premium feel. 
+y=  306.7 x0= 108.0 x1= 482.9 [('ArialMT', 12.0), ('TimesNewRomanPSMT', 12.0)] | ● To deploy the project using Vercel (PaaS) for scalability and accessibility. 
+y=  279.0 x0= 108.0 x1= 525.7 [('ArialMT', 12.0), ('TimesNewRomanPSMT', 12.0)] | ● To use GitHub for collaboration and version control, ensuring smooth team 
+y=  265.2 x0= 126.0 x1= 292.0 [('TimesNewRomanPSMT', 12.0)] | coordination during development. 
+y=   40.4 x0= 303.6 x1= 312.6 [('TimesNewRomanPSMT', 12.0)] | 4 
+==== PAGE 14 ====
+y=  748.1 x0=  90.0 x1= 453.7 [('TimesNewRomanPS-BoldMT', 17.0)] | 3. SYSTEM REQUIREMENT SPECIFICATION 
+y=  718.3 x0=  90.0 x1= 156.1 [('TimesNewRomanPS-BoldMT', 13.0)] | 3.1 SCOPE 
+y=  692.3 x0= 126.0 x1= 525.8 [('TimesNewRomanPSMT', 12.0)] | This project focuses on developing a modern, responsive frontend website for 
+y=  678.5 x0=  90.0 x1= 526.0 [('TimesNewRomanPS-ItalicMT', 12.0), ('TimesNewRomanPSMT', 12.0)] | Heal N Glow, an Ayurvedic skincare startup based in Dindigul. The website serves as a 
+y=  664.7 x0=  90.0 x1= 525.6 [('TimesNewRomanPSMT', 12.0)] | digital storefront, enabling the company to present its brand story, showcase its product 
+y=  650.9 x0=  90.0 x1= 287.9 [('TimesNewRomanPSMT', 12.0)] | range, and engage customers effectively. 
+y=  625.1 x0= 126.0 x1= 525.6 [('TimesNewRomanPSMT', 12.0)] | The scope of this project is primarily limited to the frontend interface, 
+y=  611.3 x0=  90.0 x1= 525.8 [('TimesNewRomanPS-ItalicMT', 12.0), ('TimesNewRomanPSMT', 12.0)] | emphasizing aesthetics, usability, and brand identity. It is specifically designed for Heal N 
+y=  597.5 x0=  90.0 x1= 526.2 [('TimesNewRomanPS-ItalicMT', 12.0), ('TimesNewRomanPSMT', 12.0)] | Glow but can be extended to other startups in the beauty, wellness, and organic product 
+y=  583.7 x0=  90.0 x1= 261.3 [('TimesNewRomanPSMT', 12.0)] | sectors seeking an online presence. 
+y=  557.9 x0= 126.0 x1= 525.9 [('TimesNewRomanPS-BoldMT', 12.0), ('TimesNewRomanPSMT', 12.0)] | The website is built using the React.js framework for component-based UI 
+y=  544.1 x0=  90.0 x1= 526.0 [('TimesNewRomanPS-BoldMT', 12.0), ('TimesNewRomanPSMT', 12.0)] | development, integrated with Framer Motion for smooth animations and Lenis Scroll 
+y=  530.3 x0=  90.0 x1= 525.6 [('TimesNewRomanPSMT', 12.0)] | for fluid page transitions and enhanced user experience. The project is deployed on 
+y=  516.5 x0=  90.0 x1= 526.0 [('TimesNewRomanPS-BoldMT', 12.0), ('TimesNewRomanPSMT', 12.0)] | Vercel (Platform as a Service) for scalability and hosted reliability, with GitHub used 
+y=  502.7 x0=  90.0 x1= 294.3 [('TimesNewRomanPSMT', 12.0)] | for source control and team collaboration. 
+y=  448.2 x0=  90.0 x1= 310.2 [('TimesNewRomanPS-BoldMT', 13.0)] | 3.2 FUNCTIONAL REQUIREMENTS 
+y=  422.1 x0= 108.0 x1= 526.1 [('ArialMT', 12.0), ('TimesNewRomanPSMT', 12.0)] | ● The website should provide an interactive home page introducing the brand and 
+y=  408.3 x0= 126.0 x1= 277.3 [('TimesNewRomanPSMT', 12.0)] | highlighting featured products. 
+y=  380.7 x0= 108.0 x1= 525.7 [('ArialMT', 12.0), ('TimesNewRomanPSMT', 12.0)] | ● The product section should list all available items with images, descriptions, and 
+y=  366.9 x0= 126.0 x1= 206.3 [('TimesNewRomanPSMT', 12.0)] | natural benefits. 
+y=  339.2 x0= 108.0 x1= 525.7 [('ArialMT', 12.0), ('TimesNewRomanPSMT', 12.0)] | ● The about section should describe the brand’s story, vision, and commitment to 
+y=  325.4 x0= 126.0 x1= 224.5 [('TimesNewRomanPSMT', 12.0)] | Ayurvedic skincare. 
+y=  297.8 x0= 108.0 x1= 525.6 [('ArialMT', 12.0), ('TimesNewRomanPSMT', 12.0)] | ● The contact page should enable users to reach the brand via a form and social 
+y=  284.0 x0= 126.0 x1= 187.7 [('TimesNewRomanPSMT', 12.0)] | media links. 
+y=  256.3 x0= 108.0 x1= 525.7 [('ArialMT', 12.0), ('TimesNewRomanPSMT', 12.0)] | ● The website must maintain responsive design across desktop, tablet, and mobile 
+y=  242.5 x0= 126.0 x1= 167.3 [('TimesNewRomanPSMT', 12.0)] | screens. 
+y=  214.9 x0= 108.0 x1= 525.7 [('ArialMT', 12.0), ('TimesNewRomanPSMT', 12.0)] | ● Page transitions and animations should use Framer Motion and Lenis Scroll for 
+y=  201.1 x0= 126.0 x1= 226.3 [('TimesNewRomanPSMT', 12.0)] | smooth interactions. 
+y=  173.4 x0= 108.0 x1= 526.0 [('ArialMT', 12.0), ('TimesNewRomanPSMT', 12.0)] | ● The application must be easily maintainable, with modular and reusable 
+y=  159.6 x0= 126.0 x1= 190.0 [('TimesNewRomanPSMT', 12.0)] | components. 
+y=   40.4 x0= 303.6 x1= 312.6 [('TimesNewRomanPSMT', 12.0)] | 5 
+==== PAGE 15 ====
+y=  757.9 x0=  90.0 x1= 301.0 [('TimesNewRomanPS-BoldMT', 13.0)] | 3.2.1 SOFTWARE SPECIFICATION 
+y=  731.8 x0=  90.0 x1= 260.4 [('TimesNewRomanPS-BoldMT', 12.0)] | Frontend Framework – React.js  
+y=  716.0 x0=  90.0 x1= 526.0 [('TimesNewRomanPS-BoldMT', 12.0), ('TimesNewRomanPS-ItalicMT', 12.0), ('TimesNewRomanPSMT', 12.0)] |   The core of the Heal N Glow website is built using React.js, a JavaScript library 
+y=  700.1 x0=  90.0 x1= 525.8 [('TimesNewRomanPSMT', 12.0)] | for building interactive and component-based user interfaces. React enables modular 
+y=  684.2 x0=  90.0 x1= 526.0 [('TimesNewRomanPSMT', 12.0)] | development, allowing each section of the website, such as the Home, Products, About, 
+y=  668.4 x0=  90.0 x1= 525.9 [('TimesNewRomanPSMT', 12.0)] | and Contact pages, to be created as reusable components. This ensures maintainability, 
+y=  652.5 x0=  90.0 x1= 526.2 [('TimesNewRomanPSMT', 12.0)] | scalability, and efficient rendering of dynamic content through its virtual DOM 
+y=  636.6 x0=  90.0 x1= 150.7 [('TimesNewRomanPSMT', 12.0)] | mechanism. 
+y=  608.8 x0=  90.0 x1= 163.0 [('TimesNewRomanPS-BoldMT', 12.0)] | Styling – CSS 
+y=  592.9 x0=  90.0 x1= 526.0 [('TimesNewRomanPS-BoldMT', 12.0), ('TimesNewRomanPSMT', 12.0)] |   All visual styling is implemented using CSS, which allows precise control over 
+y=  577.0 x0=  90.0 x1= 526.0 [('TimesNewRomanPSMT', 12.0)] | layout, typography, colors, and responsive design. CSS ensures that the website maintains 
+y=  561.2 x0=  90.0 x1= 525.8 [('TimesNewRomanPS-ItalicMT', 12.0), ('TimesNewRomanPSMT', 12.0)] | a consistent look and feel across desktop and mobile devices, aligning with the Heal N 
+y=  545.3 x0=  90.0 x1= 191.2 [('TimesNewRomanPS-ItalicMT', 12.0), ('TimesNewRomanPSMT', 12.0)] | Glow brand identity. 
+y=  517.4 x0=  90.0 x1= 376.4 [('TimesNewRomanPS-BoldMT', 12.0)] | Animation Libraries – Framer Motion and Lenis Scroll 
+y=  501.6 x0=  90.0 x1= 526.1 [('TimesNewRomanPS-BoldMT', 12.0), ('TimesNewRomanPSMT', 12.0)] |   To enhance user experience, Framer Motion is employed for animations such as 
+y=  485.7 x0=  90.0 x1= 526.0 [('TimesNewRomanPS-BoldMT', 12.0), ('TimesNewRomanPSMT', 12.0)] | fading, sliding, and interactive transitions, providing smooth visual feedback. Lenis 
+y=  469.8 x0=  90.0 x1= 525.9 [('TimesNewRomanPS-BoldMT', 12.0), ('TimesNewRomanPSMT', 12.0)] | Scroll is integrated to deliver fluid scrolling effects, creating a seamless and modern 
+y=  453.9 x0=  90.0 x1= 314.6 [('TimesNewRomanPSMT', 12.0)] | navigation experience throughout the website. 
+y=  426.1 x0=  90.0 x1= 397.4 [('TimesNewRomanPS-BoldMT', 12.0)] | Development Environment – Visual Studio Code (VS Code) 
+y=  410.2 x0=  90.0 x1= 526.1 [('TimesNewRomanPS-BoldMT', 12.0), ('TimesNewRomanPSMT', 12.0)] |  The project is developed in Visual Studio Code, a lightweight and feature-rich IDE that 
+y=  394.3 x0=  90.0 x1= 526.1 [('TimesNewRomanPSMT', 12.0)] | supports live previews, debugging, and integrated version control. VS Code provides a 
+y=  378.5 x0=  90.0 x1= 525.9 [('TimesNewRomanPSMT', 12.0)] | flexible environment for writing React components, managing project files, and testing 
+y=  362.6 x0=  90.0 x1= 170.0 [('TimesNewRomanPSMT', 12.0)] | code efficiently. 
+y=  334.7 x0=  90.0 x1= 258.7 [('TimesNewRomanPS-BoldMT', 12.0)] | Version Control – Git & GitHub 
+y=  318.9 x0=  90.0 x1= 525.7 [('TimesNewRomanPS-BoldMT', 12.0), ('TimesNewRomanPSMT', 12.0)] |   Git is used to track code changes, while GitHub enables collaborative 
+y=  303.0 x0=  90.0 x1= 525.8 [('TimesNewRomanPSMT', 12.0)] | development by allowing multiple contributors to work on different features 
+y=  287.1 x0=  90.0 x1= 526.0 [('TimesNewRomanPSMT', 12.0)] | simultaneously. It ensures a structured workflow with version history, branch 
+y=  271.3 x0=  90.0 x1= 515.6 [('TimesNewRomanPSMT', 12.0)] | management, and pull requests, making teamwork efficient and reducing code conflicts. 
+y=  243.4 x0=  90.0 x1= 285.0 [('TimesNewRomanPS-BoldMT', 12.0)] | Deployment Platform – Vercel (PaaS) 
+y=  227.5 x0=  90.0 x1= 525.6 [('TimesNewRomanPS-BoldMT', 12.0), ('TimesNewRomanPSMT', 12.0)] |   The completed website is deployed using Vercel, a cloud-based Platform as a 
+y=  211.7 x0=  90.0 x1= 526.1 [('TimesNewRomanPSMT', 12.0)] | Service. Vercel provides automatic builds and continuous deployment directly from the 
+y=  195.8 x0=  90.0 x1= 526.1 [('TimesNewRomanPSMT', 12.0)] | GitHub repository. It also delivers website content through a global Content Delivery 
+y=  179.9 x0=  90.0 x1= 510.6 [('TimesNewRomanPSMT', 12.0)] | Network (CDN), ensuring fast loading times and high availability for users worldwide. 
+y=   40.4 x0= 303.6 x1= 312.6 [('TimesNewRomanPSMT', 12.0)] | 6 
+==== PAGE 16 ====
+y=  757.9 x0=  90.0 x1= 305.3 [('TimesNewRomanPS-BoldMT', 13.0)] | 3.2.2 HARDWARE SPECIFICATION 
+y=  729.6 x0=  90.0 x1= 231.1 [('TimesNewRomanPS-BoldMT', 12.0)] | Development Environment 
+y=  713.7 x0=  90.0 x1= 525.5 [('TimesNewRomanPSMT', 12.0)] |   For development purposes, a system with an Intel i3 processor or higher, 4 GB 
+y=  697.9 x0=  90.0 x1= 526.1 [('TimesNewRomanPSMT', 12.0)] | RAM (8 GB recommended), and at least 10 GB of free storage is sufficient. Such a 
+y=  682.0 x0=  90.0 x1= 525.7 [('TimesNewRomanPSMT', 12.0)] | configuration ensures smooth execution of development tools like Visual Studio Code, 
+y=  666.1 x0=  90.0 x1= 525.9 [('TimesNewRomanPSMT', 12.0)] | local builds, and testing. A display with 1366 × 768 resolution or higher allows efficient 
+y=  650.3 x0=  90.0 x1= 392.9 [('TimesNewRomanPSMT', 12.0)] | layout testing, especially for responsive design considerations. 
+y=  622.4 x0=  90.0 x1= 225.8 [('TimesNewRomanPS-BoldMT', 12.0)] | Deployment Environment 
+y=  606.5 x0=  90.0 x1= 525.7 [('TimesNewRomanPSMT', 12.0)] |   Since the website is hosted on Vercel, there is no requirement for a physical web 
+y=  590.7 x0=  90.0 x1= 525.7 [('TimesNewRomanPSMT', 12.0)] | server. Vercel provides cloud-based server infrastructure, automatically managing server 
+y=  574.8 x0=  90.0 x1= 526.0 [('TimesNewRomanPSMT', 12.0)] | resources, scaling traffic, and maintaining high availability. The hosting environment 
+y=  558.9 x0=  90.0 x1= 419.5 [('TimesNewRomanPSMT', 12.0)] | ensures that the website is accessible globally with minimal latency. 
+y=  531.1 x0=  90.0 x1= 184.0 [('TimesNewRomanPS-BoldMT', 12.0)] | End-User Devices 
+y=  515.2 x0=  90.0 x1= 526.1 [('TimesNewRomanPSMT', 12.0)] |   The website is optimized for a wide range of devices. Users can access it 
+y=  499.3 x0=  90.0 x1= 526.0 [('TimesNewRomanPSMT', 12.0)] | seamlessly from desktops, laptops, tablets, and mobile phones. The responsive design 
+y=  483.4 x0=  90.0 x1= 525.9 [('TimesNewRomanPSMT', 12.0)] | adapts to various screen sizes and resolutions, ensuring an intuitive user experience across 
+y=  467.6 x0=  90.0 x1= 526.3 [('TimesNewRomanPSMT', 12.0)] | all devices. Users only need an internet connection and a modern browser to interact with 
+y=  451.7 x0=  90.0 x1= 319.9 [('TimesNewRomanPSMT', 12.0)] | the website effectively. 
+y=   40.4 x0= 303.6 x1= 312.6 [('TimesNewRomanPSMT', 12.0)] | 7 
+==== PAGE 17 ====
+y=  756.0 x0=  90.0 x1= 255.9 [('TimesNewRomanPS-BoldMT', 15.0)] | 4. PROPOSED SYSTEM 
+y=  724.0 x0=  90.0 x1= 185.7 [('TimesNewRomanPS-BoldMT', 13.0)] | 4.1 Methodology 
+y=  695.8 x0= 126.0 x1= 526.1 [('TimesNewRomanPS-ItalicMT', 12.0), ('TimesNewRomanPSMT', 12.0)] | The proposed system for Heal N Glow is a frontend-focused, responsive website 
+y=  679.9 x0=  90.0 x1= 525.6 [('TimesNewRomanPSMT', 12.0)] | developed using React.js, with a strong emphasis on modular design, user experience, and 
+y=  664.0 x0=  90.0 x1= 525.7 [('TimesNewRomanPS-BoldMT', 12.0), ('TimesNewRomanPSMT', 12.0)] | brand presentation. The development methodology combines component-based 
+y=  648.2 x0=  90.0 x1= 526.2 [('TimesNewRomanPS-BoldMT', 12.0), ('TimesNewRomanPSMT', 12.0)] | architecture with the Agile development process, enabling iterative progress, 
+y=  632.3 x0=  90.0 x1= 526.0 [('TimesNewRomanPSMT', 12.0)] | continuous feedback, and flexible enhancements. The methodology is detailed below by 
+y=  616.4 x0=  90.0 x1= 129.6 [('TimesNewRomanPSMT', 12.0)] | feature: 
+y=  588.6 x0=  90.0 x1= 267.5 [('TimesNewRomanPS-BoldMT', 12.0)] | 1. Component-Based Architecture 
+y=  572.7 x0=  90.0 x1= 525.6 [('TimesNewRomanPSMT', 12.0)] |   Each section of the website Home, Products, About, Contact is developed as an 
+y=  556.8 x0=  90.0 x1= 526.3 [('TimesNewRomanPSMT', 12.0)] | independent React component. This modular approach allows for easier maintenance, 
+y=  541.0 x0=  90.0 x1= 525.8 [('TimesNewRomanPSMT', 12.0)] | testing, and future scalability. Components can be reused across the website, reducing 
+y=  525.1 x0=  90.0 x1= 407.3 [('TimesNewRomanPSMT', 12.0)] | development time and ensuring consistency in layout and styling. 
+y=  497.2 x0=  90.0 x1= 200.0 [('TimesNewRomanPS-BoldMT', 12.0)] | 2. Responsive Design 
+y=  481.3 x0=  90.0 x1= 525.8 [('TimesNewRomanPSMT', 12.0)] |   The website is designed to work seamlessly across desktops, laptops, tablets, and 
+y=  465.5 x0=  90.0 x1= 526.2 [('TimesNewRomanPSMT', 12.0)] | mobile devices. CSS is used in combination with modern layout techniques to adapt to 
+y=  449.6 x0=  90.0 x1= 525.9 [('TimesNewRomanPSMT', 12.0)] | various screen sizes, ensuring that users have a consistent and intuitive experience on any 
+y=  433.7 x0=  90.0 x1= 127.3 [('TimesNewRomanPSMT', 12.0)] | device. 
+y=  405.9 x0=  90.0 x1= 289.8 [('TimesNewRomanPS-BoldMT', 12.0)] | 3. Animations and Smooth Transitions 
+y=  390.0 x0=  90.0 x1= 525.8 [('TimesNewRomanPS-BoldMT', 12.0), ('TimesNewRomanPSMT', 12.0)] |   Visual interactivity is enhanced using Framer Motion for component animations 
+y=  374.1 x0=  90.0 x1= 526.1 [('TimesNewRomanPS-BoldMT', 12.0), ('TimesNewRomanPSMT', 12.0)] | such as fading, sliding, and hover effects. Lenis Scroll is integrated for smooth scrolling 
+y=  358.3 x0=  90.0 x1= 525.8 [('TimesNewRomanPSMT', 12.0)] | and navigation transitions, creating a polished, modern browsing experience. These 
+y=  342.4 x0=  90.0 x1= 526.1 [('TimesNewRomanPSMT', 12.0)] | animations improve user engagement and make the website visually appealing without 
+y=  326.5 x0=  90.0 x1= 229.0 [('TimesNewRomanPSMT', 12.0)] | compromising performance. 
+y=  298.7 x0=  90.0 x1= 272.3 [('TimesNewRomanPS-BoldMT', 12.0)] | 4. Agile Development Methodology 
+y=  282.8 x0=  90.0 x1= 526.1 [('TimesNewRomanPS-BoldMT', 12.0), ('TimesNewRomanPSMT', 12.0)] |   The project follows Agile methodology, incorporating iterative sprints to achieve 
+y=  266.9 x0=  90.0 x1= 526.1 [('TimesNewRomanPSMT', 12.0)] | steady progress. Sprint planning included defining specific tasks for module creation, UI 
+y=  251.1 x0=  90.0 x1= 526.1 [('TimesNewRomanPSMT', 12.0)] | design, animation integration, and responsiveness testing. Each sprint concluded with 
+y=  235.2 x0=  90.0 x1= 525.9 [('TimesNewRomanPSMT', 12.0)] | internal reviews and testing, allowing early detection of errors, continuous improvement, 
+y=  219.3 x0=  90.0 x1= 256.6 [('TimesNewRomanPSMT', 12.0)] | and flexibility for design changes. 
+y=  191.4 x0=  90.0 x1= 282.0 [('TimesNewRomanPS-BoldMT', 12.0)] | 5. Prototyping and Design Validation 
+y=  175.6 x0=  90.0 x1= 525.6 [('TimesNewRomanPSMT', 12.0)] |   Wireframes and mockups were created during the early stages of development to 
+y=  159.7 x0=  90.0 x1= 525.8 [('TimesNewRomanPSMT', 12.0)] | visualize layouts, color schemes, and user interactions. These prototypes were validated 
+y=  143.8 x0=  90.0 x1= 526.0 [('TimesNewRomanPS-ItalicMT', 12.0), ('TimesNewRomanPSMT', 12.0)] | against the brand identity of Heal N Glow, ensuring that the final product aligned with 
+y=  128.0 x0=  90.0 x1= 365.6 [('TimesNewRomanPSMT', 12.0)] | company goals and provided a cohesive user experience. 
+y=   40.4 x0= 303.6 x1= 312.6 [('TimesNewRomanPSMT', 12.0)] | 8 
+==== PAGE 18 ====
+y=  758.8 x0=  90.0 x1= 283.4 [('TimesNewRomanPS-BoldMT', 12.0)] | 6. Version Control and Collaboration 
+y=  742.9 x0=  90.0 x1= 525.9 [('TimesNewRomanPS-BoldMT', 12.0), ('TimesNewRomanPSMT', 12.0)] |   Git and GitHub were used for version control and collaborative development. 
+y=  727.1 x0=  90.0 x1= 525.6 [('TimesNewRomanPSMT', 12.0)] | This ensured organized code management, easy rollback to previous versions if needed, 
+y=  711.2 x0=  90.0 x1= 475.8 [('TimesNewRomanPSMT', 12.0)] | and efficient teamwork when multiple developers worked on different modules. 
+y=  683.3 x0=  90.0 x1= 256.3 [('TimesNewRomanPS-BoldMT', 12.0)] | 7. Deployment and Accessibility 
+y=  667.5 x0=  90.0 x1= 526.0 [('TimesNewRomanPS-BoldMT', 12.0), ('TimesNewRomanPSMT', 12.0)] |   The website is deployed on Vercel, a cloud-based platform that provides 
+y=  651.6 x0=  90.0 x1= 526.1 [('TimesNewRomanPS-BoldMT', 12.0), ('TimesNewRomanPSMT', 12.0)] | automatic builds, continuous deployment, and global CDN support. This ensures the 
+y=  635.7 x0=  90.0 x1= 525.7 [('TimesNewRomanPSMT', 12.0)] | website is highly available, loads quickly, and can be accessed by users across different 
+y=  619.8 x0=  90.0 x1= 131.3 [('TimesNewRomanPSMT', 12.0)] | regions. 
+y=  589.0 x0=  90.0 x1= 310.3 [('TimesNewRomanPS-BoldMT', 13.0)] | 4.2 Advantages of the Proposed System 
+y=  560.8 x0=  90.0 x1= 525.8 [('TimesNewRomanPSMT', 12.0)] | The proposed system provides several distinct advantages, both from a technical and 
+y=  544.9 x0=  90.0 x1= 194.6 [('TimesNewRomanPSMT', 12.0)] | business perspective: 
+y=  517.1 x0=  90.0 x1= 274.0 [('TimesNewRomanPS-BoldMT', 12.0)] | 1. Modular and Maintainable Code 
+y=  501.2 x0=  90.0 x1= 526.1 [('TimesNewRomanPSMT', 12.0)] |   The component-based architecture ensures that each module is independent and 
+y=  485.3 x0=  90.0 x1= 525.7 [('TimesNewRomanPSMT', 12.0)] | reusable. This improves maintainability, reduces development time for future 
+y=  469.4 x0=  90.0 x1= 291.3 [('TimesNewRomanPSMT', 12.0)] | enhancements, and simplifies debugging. 
+y=  441.6 x0=  90.0 x1= 243.7 [('TimesNewRomanPS-BoldMT', 12.0)] | 2. Enhanced User Experience 
+y=  425.7 x0=  90.0 x1= 526.1 [('TimesNewRomanPSMT', 12.0)] |   Responsive design ensures a seamless experience across all devices, while smooth 
+y=  409.8 x0=  90.0 x1= 526.2 [('TimesNewRomanPSMT', 12.0)] | animations and transitions improve visual engagement. Users can interact intuitively with 
+y=  394.0 x0=  90.0 x1= 426.6 [('TimesNewRomanPSMT', 12.0)] | the website, increasing satisfaction and the likelihood of repeat visits. 
+y=  366.1 x0=  90.0 x1= 296.6 [('TimesNewRomanPS-BoldMT', 12.0)] | 3. Iterative Development and Flexibility 
+y=  350.2 x0=  90.0 x1= 525.7 [('TimesNewRomanPSMT', 12.0)] |   Agile methodology allows continuous progress through sprints. Iterative 
+y=  334.4 x0=  90.0 x1= 526.2 [('TimesNewRomanPSMT', 12.0)] | development enables early detection of issues, timely feedback, and the flexibility to 
+y=  318.5 x0=  90.0 x1= 358.4 [('TimesNewRomanPSMT', 12.0)] | implement changes without affecting the entire project. 
+y=  290.6 x0=  90.0 x1= 223.3 [('TimesNewRomanPS-BoldMT', 12.0)] | 4. Efficient Collaboration 
+y=  274.8 x0=  90.0 x1= 525.9 [('TimesNewRomanPSMT', 12.0)] |   Using Git and GitHub for version control ensures organized teamwork, minimizes 
+y=  258.9 x0=  90.0 x1= 525.6 [('TimesNewRomanPSMT', 12.0)] | code conflicts, and provides a historical record of changes. This streamlines development 
+y=  243.0 x0=  90.0 x1= 257.0 [('TimesNewRomanPSMT', 12.0)] | in a multi-developer environment. 
+y=  215.2 x0=  90.0 x1= 280.7 [('TimesNewRomanPS-BoldMT', 12.0)] | 5. Quick Deployment and Scalability 
+y=  199.3 x0=  90.0 x1= 525.7 [('TimesNewRomanPSMT', 12.0)] |   Deployment on Vercel enables global access through a CDN, automated build 
+y=  183.4 x0=  90.0 x1= 525.7 [('TimesNewRomanPSMT', 12.0)] | processes, and scalability without additional server setup. This allows the website to 
+y=  167.5 x0=  90.0 x1= 319.0 [('TimesNewRomanPSMT', 12.0)] | handle increasing traffic as the business grows. 
+y=  139.7 x0=  90.0 x1= 317.4 [('TimesNewRomanPS-BoldMT', 12.0)] | 6. Brand Representation and Market Reach 
+y=  123.8 x0=  90.0 x1= 525.7 [('TimesNewRomanPS-ItalicMT', 12.0), ('TimesNewRomanPSMT', 12.0)] |   The proposed system effectively communicates the Heal N Glow brand, 
+y=  107.9 x0=  90.0 x1= 526.2 [('TimesNewRomanPSMT', 12.0)] | showcases the complete product range, and includes key sections like brand story, 
+y=   92.1 x0=  90.0 x1= 526.0 [('TimesNewRomanPSMT', 12.0)] | testimonials, and contact information. This strengthens brand credibility, builds customer 
+y=   76.2 x0=  90.0 x1= 262.0 [('TimesNewRomanPSMT', 12.0)] | trust, and supports business growth 
+y=   40.4 x0= 303.6 x1= 312.6 [('TimesNewRomanPSMT', 12.0)] | 9 
+==== PAGE 19 ====
+y=  750.0 x0=  90.0 x1= 231.7 [('TimesNewRomanPS-BoldMT', 15.0)] | 5. SYSTEM DESIGN 
+y=  718.0 x0=  90.0 x1= 343.8 [('TimesNewRomanPS-BoldMT', 13.0)] | 5.1 SYSTEM ARCHITECTURE DIAGRAM 
+y=   40.4 x0= 300.6 x1= 315.6 [('TimesNewRomanPSMT', 12.0)] | 10 
+==== PAGE 20 ====
+y=  757.9 x0=  90.0 x1= 258.8 [('TimesNewRomanPS-BoldMT', 13.0)] | 5.2 DATA FLOW DIAGRAM 
+y=  710.0 x0=  90.0 x1= 176.7 [('TimesNewRomanPS-BoldMT', 11.0)] | 5.2.1 Level 0 DFD 
+y=  543.2 x0=  90.0 x1= 176.7 [('TimesNewRomanPS-BoldMT', 11.0)] | 5.2.1 Level 1 DFD 
+y=   40.4 x0= 300.9 x1= 315.4 [('TimesNewRomanPSMT', 12.0)] | 11 
+==== PAGE 21 ====
+y=  759.7 x0=  90.0 x1= 176.7 [('TimesNewRomanPS-BoldMT', 11.0)] | 5.2.1 Level 2 DFD 
+y=   40.4 x0= 300.6 x1= 315.6 [('TimesNewRomanPSMT', 12.0)] | 12 
+==== PAGE 22 ====
+y=  747.9 x0=  90.0 x1= 305.2 [('TimesNewRomanPS-BoldMT', 13.0)] | 5.3 LOGICAL DESIGN USING UML 
+y=  718.5 x0=  90.0 x1= 201.1 [('TimesNewRomanPS-BoldMT', 11.0)] | 5.3.1 Usecase  Diagram 
+y=  340.3 x0=  90.0 x1= 311.6 [('ArialMT', 14.0), ('TimesNewRomanPS-BoldMT', 13.0)] | 5.4 PHYSICAL DESIGN USING UML 
+y=  311.0 x0=  90.0 x1= 216.7 [('TimesNewRomanPS-BoldMT', 11.0)] | 5.4.1 Component Diagram 
+y=   40.4 x0= 300.6 x1= 315.6 [('TimesNewRomanPSMT', 12.0)] | 13 
+==== PAGE 23 ====
+y=  759.7 x0=  90.0 x1= 218.5 [('TimesNewRomanPS-BoldMT', 11.0)] | 5.4.2 Deployment Diagram 
+y=   40.4 x0= 300.6 x1= 315.6 [('TimesNewRomanPSMT', 12.0)] | 14 
+==== PAGE 24 ====
+y=  750.0 x0=  90.0 x1= 284.2 [('TimesNewRomanPS-BoldMT', 15.0)] | 6. MODULE DESCRIPTION 
+y=  720.0 x0=  90.0 x1= 191.8 [('TimesNewRomanPS-BoldMT', 13.0)] | 6.1 Home Module 
+y=  702.8 x0=  90.0 x1= 525.8 [('TimesNewRomanPSMT', 13.0)] |   The Home module serves as the landing page of the website, providing 
+y=  685.6 x0=  90.0 x1= 526.3 [('TimesNewRomanPS-ItalicMT', 13.0), ('TimesNewRomanPSMT', 13.0)] | users with a comprehensive overview of the Heal N Glow brand. It showcases 
+y=  668.5 x0=  90.0 x1= 526.0 [('TimesNewRomanPSMT', 13.0)] | featured products, brand highlights, and recent updates in a visually engaging 
+y=  651.3 x0=  90.0 x1= 526.1 [('TimesNewRomanPS-BoldMT', 13.0), ('TimesNewRomanPSMT', 13.0)] | layout that immediately captures attention. This module integrates Framer 
+y=  634.1 x0=  90.0 x1= 526.4 [('TimesNewRomanPS-BoldMT', 13.0), ('TimesNewRomanPSMT', 13.0)] | Motion animations and Lenis Scroll effects for smooth transitions between 
+y=  616.9 x0=  90.0 x1= 525.9 [('TimesNewRomanPSMT', 13.0)] | sections, ensuring a modern, interactive user experience. Components include the 
+y=  599.7 x0=  90.0 x1= 526.4 [('TimesNewRomanPS-BoldMT', 13.0), ('TimesNewRomanPSMT', 13.0)] | Hero Banner, Featured Products carousel, and Highlights section, all designed 
+y=  582.5 x0=  90.0 x1= 392.8 [('TimesNewRomanPSMT', 13.0)] | to guide users seamlessly to other sections of the website. 
+y=  553.3 x0=  90.0 x1= 211.0 [('TimesNewRomanPS-BoldMT', 13.0)] | 6.2 About Us Module 
+y=  536.1 x0=  90.0 x1= 526.3 [('TimesNewRomanPSMT', 13.0)] |   The About Us module introduces the brand story, mission, values, and team 
+y=  518.9 x0=  90.0 x1= 526.0 [('TimesNewRomanPSMT', 13.0)] | members, providing an in-depth understanding of the company’s philosophy. It 
+y=  501.7 x0=  90.0 x1= 526.1 [('TimesNewRomanPS-BoldMT', 13.0), ('TimesNewRomanPSMT', 13.0)] | explains the Ayurvedic and organic principles behind the products, giving users 
+y=  484.5 x0=  90.0 x1= 526.5 [('TimesNewRomanPSMT', 13.0)] | insight into the natural wellness approach adopted by the brand. Components 
+y=  467.4 x0=  90.0 x1= 526.0 [('TimesNewRomanPS-BoldMT', 13.0), ('TimesNewRomanPSMT', 13.0)] | include Brand Story, Mission & Vision, and Team Introduction, with 
+y=  450.2 x0=  90.0 x1= 525.9 [('TimesNewRomanPSMT', 13.0)] | animations and styling applied to enhance readability and visual appeal across 
+y=  433.0 x0=  90.0 x1= 526.5 [('TimesNewRomanPSMT', 13.0)] | devices. This module also emphasizes the company’s commitment to quality and 
+y=  415.8 x0=  90.0 x1= 526.3 [('TimesNewRomanPSMT', 13.0)] | sustainability, helping build credibility and trust with both individual customers 
+y=  398.6 x0=  90.0 x1= 225.7 [('TimesNewRomanPSMT', 13.0)] | and institutional partners. 
+y=  369.4 x0=  90.0 x1= 194.0 [('TimesNewRomanPS-BoldMT', 13.0)] | 6.3 Hotels Module 
+y=  352.2 x0=  90.0 x1= 526.0 [('TimesNewRomanPSMT', 13.0)] |   This module is tailored to showcase products and services specifically for 
+y=  335.0 x0=  90.0 x1= 525.9 [('TimesNewRomanPS-BoldMT', 13.0), ('TimesNewRomanPSMT', 13.0)] | hotel management and hospitality partners. It provides a curated view of items 
+y=  317.8 x0=  90.0 x1= 526.1 [('TimesNewRomanPS-BoldMT', 13.0), ('TimesNewRomanPSMT', 13.0)] | suitable for hotel amenities, with detailed descriptions and benefits. Components 
+y=  300.6 x0=  90.0 x1= 526.4 [('TimesNewRomanPS-BoldMT', 13.0), ('TimesNewRomanPSMT', 13.0)] | include a Products Carousel, Testimonials, and Partners Section, enabling B2B 
+y=  283.4 x0=  90.0 x1= 525.9 [('TimesNewRomanPSMT', 13.0)] | customers to quickly assess offerings and understand their relevance. Interactive 
+y=  266.3 x0=  90.0 x1= 526.5 [('TimesNewRomanPSMT', 13.0)] | elements and smooth transitions ensure an engaging browsing experience for 
+y=  249.1 x0=  90.0 x1= 190.0 [('TimesNewRomanPSMT', 13.0)] | professional users. 
+y=  219.9 x0=  90.0 x1= 210.6 [('TimesNewRomanPS-BoldMT', 13.0)] | 6.4 Hospitals Module 
+y=  202.7 x0=  90.0 x1= 526.5 [('TimesNewRomanPS-BoldMT', 13.0), ('TimesNewRomanPSMT', 13.0)] |   The Hospitals module highlights products suitable for healthcare facilities, 
+y=  185.5 x0=  90.0 x1= 526.0 [('TimesNewRomanPSMT', 13.0)] | focusing on Ayurvedic wellness products that can be integrated into hospital and 
+y=  168.3 x0=  90.0 x1= 526.0 [('TimesNewRomanPS-BoldMT', 13.0), ('TimesNewRomanPSMT', 13.0)] | wellness programs. Components include a Products Carousel, Testimonials, and 
+y=  151.1 x0=  90.0 x1= 526.4 [('TimesNewRomanPS-BoldMT', 13.0), ('TimesNewRomanPSMT', 13.0)] | Partners Section, along with Product Cards that provide details, usage 
+y=  133.9 x0=  90.0 x1= 526.3 [('TimesNewRomanPSMT', 13.0)] | instructions, and benefits. The layout is responsive and visually structured to help 
+y=  116.7 x0=  90.0 x1= 526.5 [('TimesNewRomanPSMT', 13.0)] | healthcare professionals navigate quickly. This module also emphasizes product 
+y=   99.5 x0=  90.0 x1= 526.4 [('TimesNewRomanPSMT', 13.0)] | safety, compliance with standards, and case studies where applicable, ensuring 
+y=   82.3 x0=  90.0 x1= 342.3 [('TimesNewRomanPSMT', 13.0)] | users can trust the products for institutional use. 
+y=   40.4 x0= 300.6 x1= 315.6 [('TimesNewRomanPSMT', 12.0)] | 15 
+==== PAGE 25 ====
+y=  757.9 x0=  90.0 x1= 222.2 [('TimesNewRomanPS-BoldMT', 13.0)] | 6.5 Institutions Module 
+y=  740.7 x0=  90.0 x1= 526.2 [('TimesNewRomanPS-BoldMT', 13.0), ('TimesNewRomanPSMT', 13.0)] |   This module targets educational institutions and corporate wellness 
+y=  723.5 x0=  90.0 x1= 526.2 [('TimesNewRomanPS-BoldMT', 13.0), ('TimesNewRomanPSMT', 13.0)] | programs, presenting products and services in a structured and accessible manner. 
+y=  706.3 x0=  90.0 x1= 526.2 [('TimesNewRomanPS-BoldMT', 13.0), ('TimesNewRomanPSMT', 13.0)] | Components include a Products Carousel, Testimonials, and Partners Section, 
+y=  689.1 x0=  90.0 x1= 526.3 [('TimesNewRomanPSMT', 13.0)] | allowing decision-makers to evaluate offerings efficiently. It also highlights bulk 
+y=  671.9 x0=  90.0 x1= 526.5 [('TimesNewRomanPSMT', 13.0)] | or institutional use options and tailored wellness programs. Interactive features 
+y=  654.7 x0=  90.0 x1= 526.4 [('TimesNewRomanPSMT', 13.0)] | such as hover animations and smooth scrolling make it easier for users to explore 
+y=  637.5 x0=  90.0 x1= 526.1 [('TimesNewRomanPSMT', 13.0)] | all products, understand benefits, and engage with the company for partnerships or 
+y=  620.3 x0=  90.0 x1= 174.1 [('TimesNewRomanPSMT', 13.0)] | bulk purchases. 
+y=  591.1 x0=  90.0 x1= 239.2 [('TimesNewRomanPS-BoldMT', 13.0)] | 6.6 Accreditations Module 
+y=  574.0 x0=  90.0 x1= 525.9 [('TimesNewRomanPS-BoldMT', 13.0), ('TimesNewRomanPSMT', 13.0)] |   The Accreditations module builds credibility by displaying government 
+y=  556.8 x0=  90.0 x1= 526.0 [('TimesNewRomanPS-BoldMT', 13.0), ('TimesNewRomanPSMT', 13.0)] | approvals, quality standards, and certifications, such as ISO and Ayush 
+y=  539.6 x0=  90.0 x1= 526.3 [('TimesNewRomanPS-BoldMT', 13.0), ('TimesNewRomanPSMT', 13.0)] | registrations. Components include Certification Cards with images and 
+y=  522.4 x0=  90.0 x1= 526.2 [('TimesNewRomanPSMT', 13.0)] | descriptive text, allowing users to understand the company’s compliance and 
+y=  505.2 x0=  90.0 x1= 526.3 [('TimesNewRomanPSMT', 13.0)] | quality assurance. This module also explains the significance of each accreditation. 
+y=  488.0 x0=  90.0 x1= 526.3 [('TimesNewRomanPSMT', 13.0)] | Clear visuals and structured layout make it easy for users to verify the company’s 
+y=  470.8 x0=  90.0 x1= 152.8 [('TimesNewRomanPSMT', 13.0)] | credentials. 
+y=  441.6 x0=  90.0 x1= 203.1 [('TimesNewRomanPS-BoldMT', 13.0)] | 6.7 Product Module 
+y=  424.4 x0=  90.0 x1= 525.9 [('TimesNewRomanPS-BoldMT', 13.0), ('TimesNewRomanPSMT', 13.0)] |   The Product module showcases product images and company events, 
+y=  407.2 x0=  90.0 x1= 526.2 [('TimesNewRomanPSMT', 13.0)] | providing users with a rich visual overview of the brand and its offerings. 
+y=  390.0 x0=  90.0 x1= 526.4 [('TimesNewRomanPS-BoldMT', 13.0), ('TimesNewRomanPSMT', 13.0)] | Components include a responsive Image Grid and Event Highlights Carousel, 
+y=  372.9 x0=  90.0 x1= 525.9 [('TimesNewRomanPSMT', 13.0)] | allowing smooth navigation through photos. Animations powered by Framer 
+y=  355.7 x0=  90.0 x1= 526.4 [('TimesNewRomanPSMT', 13.0)] | Motion enhance the visual appeal, while the layout ensures a consistent and 
+y=  338.5 x0=  90.0 x1= 438.6 [('TimesNewRomanPSMT', 13.0)] | engaging experience across desktops, tablets, and mobile devices.  
+y=  309.3 x0=  90.0 x1= 228.2 [('TimesNewRomanPS-BoldMT', 13.0)] | 6.8 Testimonials Module 
+y=  292.1 x0=  90.0 x1= 526.1 [('TimesNewRomanPS-BoldMT', 13.0), ('TimesNewRomanPSMT', 13.0)] |   This module builds trust by displaying customer reviews and success 
+y=  274.9 x0=  90.0 x1= 525.9 [('TimesNewRomanPS-BoldMT', 13.0), ('TimesNewRomanPSMT', 13.0)] | stories. Components include Testimonial Cards and Sliding Carousels, 
+y=  257.7 x0=  90.0 x1= 525.8 [('TimesNewRomanPSMT', 13.0)] | showcasing user experiences and satisfaction.. This module also highlights 
+y=  240.5 x0=  90.0 x1= 525.9 [('TimesNewRomanPSMT', 13.0)] | featured testimonials and rotates reviews dynamically, helping visitors gain a quick 
+y=  223.3 x0=  90.0 x1= 526.1 [('TimesNewRomanPSMT', 13.0)] | sense of the brand’s credibility and effectiveness across multiple customer 
+y=  206.1 x0=  90.0 x1= 144.9 [('TimesNewRomanPSMT', 13.0)] | segments. 
+y=  176.9 x0=  90.0 x1= 202.6 [('TimesNewRomanPS-BoldMT', 13.0)] | 6.9 Contact Module 
+y=  159.7 x0=  90.0 x1= 526.2 [('TimesNewRomanPS-BoldMT', 13.0), ('TimesNewRomanPSMT', 13.0)] |   The Contact module allows users to reach out to Heal N Glow through a 
+y=  142.6 x0=  90.0 x1= 526.3 [('TimesNewRomanPS-BoldMT', 13.0), ('TimesNewRomanPSMT', 13.0)] | form, email, phone, and social media links. Components include a Contact Form 
+y=  125.4 x0=  90.0 x1= 526.0 [('TimesNewRomanPS-BoldMT', 13.0), ('TimesNewRomanPSMT', 13.0)] | and Social Media Links, making communication straightforward and accessible. 
+y=  108.2 x0=  90.0 x1= 526.3 [('TimesNewRomanPSMT', 13.0)] | Form submissions can be handled via a frontend notification system, ensuring 
+y=   91.0 x0=  90.0 x1= 254.2 [('TimesNewRomanPSMT', 13.0)] | users receive timely responses. 
+y=   40.4 x0= 300.6 x1= 315.6 [('TimesNewRomanPSMT', 12.0)] | 16 
+==== PAGE 26 ====
+y=  756.0 x0=  90.0 x1= 356.9 [('TimesNewRomanPS-BoldMT', 15.0)] | 7. RESULTS AND IMPLEMENTATION 
+y=  724.0 x0=  90.0 x1= 151.1 [('Arial-BoldMT', 11.0), ('TimesNewRomanPS-BoldMT', 13.0)] | RESULTS 
+y=  694.8 x0=  90.0 x1= 525.9 [('TimesNewRomanPS-BoldMT', 13.0), ('TimesNewRomanPSMT', 13.0)] | The Heal N Glow project delivered a high-quality, interactive web platform for 
+y=  677.6 x0=  90.0 x1= 526.2 [('TimesNewRomanPSMT', 13.0)] | showcasing the company’s amenities and services. The results achieved are as 
+y=  660.5 x0=  90.0 x1= 135.8 [('TimesNewRomanPSMT', 13.0)] | follows: 
+y=  631.3 x0= 108.0 x1= 352.9 [('TimesNewRomanPS-BoldMT', 13.0), ('TimesNewRomanPSMT', 13.0)] | 1. Interactive and User-Friendly Interface: 
+y=  596.8 x0= 144.0 x1= 525.8 [('ArialMT', 13.0), ('TimesNewRomanPSMT', 13.0)] | ○ The website features a modern and visually appealing design that 
+y=  579.6 x0= 162.0 x1= 300.5 [('TimesNewRomanPSMT', 13.0)] | enhances user experience. 
+y=  545.2 x0= 144.0 x1= 526.3 [('ArialMT', 13.0), ('TimesNewRomanPSMT', 13.0)] | ○ Visitors can easily navigate through different sections without 
+y=  528.0 x0= 162.0 x1= 346.4 [('TimesNewRomanPSMT', 13.0)] | confusion, improving engagement. 
+y=  493.6 x0= 108.0 x1= 312.9 [('TimesNewRomanPS-BoldMT', 13.0), ('TimesNewRomanPSMT', 13.0)] | 2. Comprehensive Product Display: 
+y=  459.2 x0= 144.0 x1= 525.8 [('ArialMT', 13.0), ('TimesNewRomanPSMT', 13.0)] | ○ Users can explore Heal N Glow’s products and services offered in 
+y=  442.0 x0= 162.0 x1= 433.3 [('TimesNewRomanPS-BoldMT', 13.0), ('TimesNewRomanPSMT', 13.0)] | hotels, hospitals, and institutional environments. 
+y=  407.5 x0= 144.0 x1= 526.4 [('ArialMT', 13.0), ('TimesNewRomanPSMT', 13.0)] | ○ Each product/service includes detailed descriptions, images, and 
+y=  390.3 x0= 162.0 x1= 456.5 [('TimesNewRomanPSMT', 13.0)] | specifications, helping clients make informed decisions. 
+y=  355.9 x0= 108.0 x1= 320.5 [('TimesNewRomanPS-BoldMT', 13.0), ('TimesNewRomanPSMT', 13.0)] | 3. Partner Information Accessibility: 
+y=  321.5 x0= 144.0 x1= 516.1 [('ArialMT', 13.0), ('TimesNewRomanPSMT', 13.0)] | ○ The platform displays detailed information about business partners. 
+y=  269.9 x0= 108.0 x1= 301.8 [('TimesNewRomanPS-BoldMT', 13.0), ('TimesNewRomanPSMT', 13.0)] | 4. Customer Feedback Showcase: 
+y=  235.5 x0= 144.0 x1= 526.5 [('ArialMT', 13.0), ('TimesNewRomanPSMT', 13.0)] | ○ Feedback and testimonials from existing clients are presented to 
+y=  218.3 x0= 162.0 x1= 206.8 [('TimesNewRomanPSMT', 13.0)] | visitors. 
+y=  183.8 x0= 144.0 x1= 526.2 [('ArialMT', 13.0), ('TimesNewRomanPSMT', 13.0)] | ○ This builds trust and gives potential clients confidence in the services 
+y=  166.6 x0= 162.0 x1= 205.8 [('TimesNewRomanPSMT', 13.0)] | offered. 
+y=   40.4 x0= 300.6 x1= 315.6 [('TimesNewRomanPSMT', 12.0)] | 17 
+==== PAGE 27 ====
+y=  757.9 x0= 108.0 x1= 284.4 [('TimesNewRomanPS-BoldMT', 13.0), ('TimesNewRomanPSMT', 13.0)] | 5. Integrated Contact Facility: 
+y=  723.4 x0= 144.0 x1= 526.1 [('ArialMT', 13.0), ('TimesNewRomanPSMT', 13.0)] | ○ A dedicated contact form allows users to submit inquiries, requests, 
+y=  706.2 x0= 162.0 x1= 363.0 [('TimesNewRomanPSMT', 13.0)] | or feedback directly from the website. 
+y=  671.8 x0= 144.0 x1= 525.9 [('ArialMT', 13.0), ('TimesNewRomanPSMT', 13.0)] | ○ Ensures easy communication between the client and potential 
+y=  654.6 x0= 162.0 x1= 221.2 [('TimesNewRomanPSMT', 13.0)] | customers. 
+y=  620.2 x0= 108.0 x1= 376.3 [('TimesNewRomanPS-BoldMT', 13.0), ('TimesNewRomanPSMT', 13.0)] | 6. Responsive and Cross-Device Compatibility: 
+y=  585.8 x0= 144.0 x1= 513.2 [('ArialMT', 13.0), ('TimesNewRomanPSMT', 13.0)] | ○ The website is optimized for desktops, tablets, and mobile devices. 
+y=  551.3 x0= 144.0 x1= 526.2 [('ArialMT', 13.0), ('TimesNewRomanPSMT', 13.0)] | ○ Ensures consistent performance and appearance across different 
+y=  534.1 x0= 162.0 x1= 230.2 [('TimesNewRomanPSMT', 13.0)] | screen sizes. 
+y=  499.7 x0= 108.0 x1= 271.6 [('TimesNewRomanPS-BoldMT', 13.0), ('TimesNewRomanPSMT', 13.0)] | 7. Professional Deployment: 
+y=  465.3 x0= 144.0 x1= 526.5 [('ArialMT', 13.0), ('TimesNewRomanPS-BoldMT', 13.0), ('TimesNewRomanPSMT', 13.0)] | ○ The website is hosted on Vercel and configured with the client’s 
+y=  448.1 x0= 162.0 x1= 248.3 [('TimesNewRomanPSMT', 13.0)] | custom domain. 
+y=  413.7 x0= 144.0 x1= 526.0 [('ArialMT', 13.0), ('TimesNewRomanPSMT', 13.0)] | ○ Provides a secure, fast, and reliable online presence accessible 
+y=  396.5 x0= 162.0 x1= 224.1 [('TimesNewRomanPSMT', 13.0)] | worldwide. 
+y=  350.1 x0=  90.0 x1= 526.3 [('TimesNewRomanPS-BoldMT', 13.0), ('TimesNewRomanPSMT', 13.0)] | Overall Outcome: The project successfully achieved its objective of creating a 
+y=  332.9 x0=  90.0 x1= 526.0 [('TimesNewRomanPS-BoldMT', 13.0), ('TimesNewRomanPSMT', 13.0)] | functional, visually engaging, and informative web platform that enhances 
+y=  315.7 x0=  90.0 x1= 391.4 [('TimesNewRomanPSMT', 13.0)] | Heal N Glow’s online visibility and customer interaction. 
+y=  286.5 x0=  90.0 x1= 226.9 [('TimesNewRomanPS-BoldMT', 13.0)] | Implementation Process 
+y=  257.3 x0=  90.0 x1= 525.9 [('TimesNewRomanPS-BoldMT', 13.0), ('TimesNewRomanPSMT', 13.0)] | The development of the Heal N Glow website was completed in a structured and 
+y=  240.1 x0=  90.0 x1= 315.7 [('TimesNewRomanPS-BoldMT', 13.0), ('TimesNewRomanPSMT', 13.0)] | systematic approach, as described below: 
+y=  210.9 x0= 108.0 x1= 226.8 [('TimesNewRomanPS-BoldMT', 13.0), ('TimesNewRomanPSMT', 13.0)] | 1. Project Planning: 
+y=  176.5 x0= 144.0 x1= 428.8 [('ArialMT', 13.0), ('TimesNewRomanPSMT', 13.0)] | ○ Defined the scope, objectives, and target audience. 
+y=  146.5 x0= 144.0 x1= 526.3 [('ArialMT', 13.0), ('TimesNewRomanPSMT', 13.0)] | ○ Identified critical features: product showcase, partner details, 
+y=  131.6 x0= 162.0 x1= 390.3 [('TimesNewRomanPSMT', 13.0)] | feedback section, and contact functionality. 
+y=  101.6 x0= 144.0 x1= 519.6 [('ArialMT', 13.0), ('TimesNewRomanPSMT', 13.0)] | ○ Prepared a timeline and allocated tasks to ensure timely completion. 
+y=   40.4 x0= 300.6 x1= 315.6 [('TimesNewRomanPSMT', 12.0)] | 18 
+==== PAGE 28 ====
+y=  757.9 x0= 108.0 x1= 214.1 [('TimesNewRomanPS-BoldMT', 13.0), ('TimesNewRomanPSMT', 13.0)] | 2. System Design: 
+y=  723.4 x0= 144.0 x1= 492.9 [('ArialMT', 13.0), ('TimesNewRomanPSMT', 13.0)] | ○ Designed the navigation structure for intuitive user experience. 
+y=  689.0 x0= 144.0 x1= 526.4 [('ArialMT', 13.0), ('TimesNewRomanPSMT', 13.0)] | ○ Planned visual elements, color schemes, typography, and layout 
+y=  671.8 x0= 162.0 x1= 374.6 [('TimesNewRomanPSMT', 13.0)] | consistency to reflect the brand’s image. 
+y=  637.4 x0= 108.0 x1= 206.5 [('TimesNewRomanPS-BoldMT', 13.0), ('TimesNewRomanPSMT', 13.0)] | 3. Development: 
+y=  603.0 x0= 144.0 x1= 526.5 [('ArialMT', 11.0), ('TimesNewRomanPS-BoldMT', 13.0), ('TimesNewRomanPSMT', 13.0)] | ○ Implemented the frontend using React.js for a modular, 
+y=  588.1 x0= 162.0 x1= 526.2 [('TimesNewRomanPSMT', 13.0)] | component-based architecture, ensuring maintainability and 
+y=  573.1 x0= 162.0 x1= 221.1 [('TimesNewRomanPSMT', 13.0)] | scalability. 
+y=  543.2 x0= 144.0 x1= 526.1 [('ArialMT', 11.0), ('TimesNewRomanPS-BoldMT', 13.0), ('TimesNewRomanPSMT', 13.0)] | ○ Styled the website with CSS, enabling rapid and consistent UI 
+y=  528.3 x0= 162.0 x1= 397.3 [('TimesNewRomanPSMT', 13.0)] | design with a modern and responsive layout. 
+y=  498.4 x0= 144.0 x1= 526.0 [('ArialMT', 11.0), ('TimesNewRomanPS-BoldMT', 13.0), ('TimesNewRomanPSMT', 13.0)] | ○ Added dynamic components to effectively showcase products, 
+y=  483.4 x0= 162.0 x1= 368.8 [('TimesNewRomanPSMT', 13.0)] | partner details, and customer feedback. 
+y=  453.5 x0= 144.0 x1= 526.5 [('ArialMT', 11.0), ('TimesNewRomanPSMT', 13.0)] | ○ Incorporated reusable components, making it easier to update content 
+y=  438.6 x0= 162.0 x1= 337.4 [('TimesNewRomanPSMT', 13.0)] | or add new features in the future. 
+y=  408.7 x0= 144.0 x1= 525.9 [('ArialMT', 11.0), ('TimesNewRomanPS-BoldMT', 13.0), ('TimesNewRomanPSMT', 13.0)] | ○ Optimized the website for performance and fast loading, providing 
+y=  393.7 x0= 162.0 x1= 378.2 [('TimesNewRomanPSMT', 13.0)] | a smooth user experience across devices. 
+y=  363.8 x0= 108.0 x1= 173.5 [('TimesNewRomanPS-BoldMT', 13.0), ('TimesNewRomanPSMT', 13.0)] | 4. Testing: 
+y=  329.4 x0= 144.0 x1= 526.3 [('ArialMT', 13.0), ('TimesNewRomanPS-BoldMT', 13.0), ('TimesNewRomanPSMT', 13.0)] | ○ Functional Testing: Verified that all features, links, and forms 
+y=  312.2 x0= 162.0 x1= 256.1 [('TimesNewRomanPSMT', 13.0)] | worked correctly. 
+y=  277.8 x0= 144.0 x1= 526.3 [('ArialMT', 13.0), ('TimesNewRomanPS-BoldMT', 13.0), ('TimesNewRomanPSMT', 13.0)] | ○ Design Testing: Checked layout consistency, responsiveness, and 
+y=  260.6 x0= 162.0 x1= 434.6 [('TimesNewRomanPSMT', 13.0)] | visual appeal across different devices and browsers. 
+y=  226.1 x0= 144.0 x1= 526.2 [('ArialMT', 13.0), ('TimesNewRomanPSMT', 13.0)] | ○ Identified and resolved minor issues before deployment to ensure 
+y=  208.9 x0= 162.0 x1= 259.1 [('TimesNewRomanPSMT', 13.0)] | smooth operation. 
+y=  174.5 x0= 108.0 x1= 200.7 [('TimesNewRomanPS-BoldMT', 13.0), ('TimesNewRomanPSMT', 13.0)] | 5. Deployment: 
+y=  140.1 x0= 144.0 x1= 525.8 [('ArialMT', 13.0), ('TimesNewRomanPS-BoldMT', 13.0), ('TimesNewRomanPSMT', 13.0)] | ○ Deployed the fully tested website using Vercel, a modern cloud 
+y=  122.9 x0= 162.0 x1= 254.8 [('TimesNewRomanPSMT', 13.0)] | hosting platform. 
+y=   40.4 x0= 300.6 x1= 315.6 [('TimesNewRomanPSMT', 12.0)] | 19 
+==== PAGE 29 ====
+y=  757.8 x0= 144.0 x1= 526.5 [('ArialMT', 13.0), ('TimesNewRomanPSMT', 13.0)] | ○ Configured the website to the client’s custom domain for 
+y=  740.6 x0= 162.0 x1= 298.8 [('TimesNewRomanPSMT', 13.0)] | professional presentation. 
+y=  706.2 x0= 144.0 x1= 525.8 [('ArialMT', 13.0), ('TimesNewRomanPSMT', 13.0)] | ○ Verified live performance, ensuring fast loading speed and secure 
+y=  689.0 x0= 162.0 x1= 261.6 [('TimesNewRomanPSMT', 13.0)] | access for visitors. 
+y=  630.6 x0=  90.0 x1= 177.1 [('TimesNewRomanPS-BoldMT', 13.0)] | HOMEPAGE : 
+y=  358.9 x0=  90.0 x1= 168.0 [('TimesNewRomanPS-BoldMT', 13.0)] | PRODUCTS  
+y=   40.4 x0= 300.6 x1= 315.6 [('TimesNewRomanPSMT', 12.0)] | 20 
+==== PAGE 30 ====
+y=  714.8 x0=  90.0 x1= 222.6 [('TimesNewRomanPS-BoldMT', 13.0), ('TimesNewRomanPSMT', 13.0)] | PARTNER-DETAILS : 
+y=   40.4 x0= 300.6 x1= 315.6 [('TimesNewRomanPSMT', 12.0)] | 21 
+==== PAGE 31 ====
+y=  726.7 x0=  90.0 x1= 225.1 [('ArialMT', 14.0), ('TimesNewRomanPS-BoldMT', 13.0)] | PARTNER-REQUEST: 
+y=  483.4 x0=  90.0 x1= 147.7 [('ArialMT', 14.0), ('TimesNewRomanPS-BoldMT', 13.0)] | ABOUT : 
+y=   40.4 x0= 300.6 x1= 315.6 [('TimesNewRomanPSMT', 12.0)] | 22 
+==== PAGE 32 ====
+y=  316.8 x0=  90.0 x1= 201.2 [('TimesNewRomanPS-BoldMT', 13.0)] | TESTIMONIALS:  
+y=  285.6 x0=  90.0 x1= 522.8 [('TimesNewRomanPS-BoldMT', 13.0)] |  :
+y=   40.4 x0= 300.6 x1= 315.6 [('TimesNewRomanPSMT', 12.0)] | 23 
+==== PAGE 33 ====
+y=  350.8 x0=  90.0 x1= 164.8 [('TimesNewRomanPS-BoldMT', 13.0), ('TimesNewRomanPSMT', 13.0)] | CONTACT : 
+y=  206.3 x0=  90.0 x1= 525.8 [('TimesNewRomanPS-BoldMT', 13.0), ('TimesNewRomanPSMT', 13.0)] | Implementation Summary: Through careful planning, systematic design, 
+y=  189.1 x0=  90.0 x1= 526.1 [('TimesNewRomanPSMT', 13.0)] | rigorous testing, and professional deployment, the Heal N Glow project 
+y=  171.9 x0=  90.0 x1= 525.8 [('TimesNewRomanPS-BoldMT', 13.0), ('TimesNewRomanPSMT', 13.0)] | successfully delivered a robust, aesthetically pleasing, and user-centric website 
+y=  154.7 x0=  90.0 x1= 416.6 [('TimesNewRomanPSMT', 13.0)] | that meets client requirements and enhances user engagement. 
+y=   40.4 x0= 300.6 x1= 315.6 [('TimesNewRomanPSMT', 12.0)] | 24 
+==== PAGE 34 ====
+y=  742.0 x0=  90.0 x1= 213.7 [('TimesNewRomanPS-BoldMT', 13.0), ('TimesNewRomanPS-BoldMT', 15.0)] | 8. CONCLUSION  
+y=  712.0 x0=  90.0 x1= 526.0 [('TimesNewRomanPS-BoldMT', 13.0), ('TimesNewRomanPSMT', 13.0)] | The Heal N Glow project has been a successful endeavor in delivering a 
+y=  694.8 x0=  90.0 x1= 526.0 [('TimesNewRomanPS-BoldMT', 13.0), ('TimesNewRomanPSMT', 13.0)] | modern, interactive, and user-centric web platform that effectively represents 
+y=  677.6 x0=  90.0 x1= 526.3 [('TimesNewRomanPSMT', 13.0)] | the brand’s products and services. The project achieved all its primary objectives, 
+y=  660.5 x0=  90.0 x1= 448.0 [('TimesNewRomanPSMT', 13.0)] | providing both functional and aesthetic value to users and the client. 
+y=  602.1 x0=  90.0 x1= 287.8 [('TimesNewRomanPSMT', 13.0)] | Key points of the conclusion include: 
+y=  572.9 x0= 108.0 x1= 261.0 [('TimesNewRomanPS-BoldMT', 13.0), ('TimesNewRomanPSMT', 13.0)] | 1. Successful Deployment: 
+y=  538.4 x0= 144.0 x1= 526.4 [('ArialMT', 13.0), ('TimesNewRomanPS-BoldMT', 13.0), ('TimesNewRomanPSMT', 13.0)] | ○ The website was successfully deployed on Vercel and integrated 
+y=  521.2 x0= 162.0 x1= 526.4 [('TimesNewRomanPS-BoldMT', 13.0), ('TimesNewRomanPSMT', 13.0)] | with the client’s custom domain, providing a professional online 
+y=  504.1 x0= 162.0 x1= 216.6 [('TimesNewRomanPS-BoldMT', 13.0), ('TimesNewRomanPSMT', 13.0)] | presence. 
+y=  469.6 x0= 144.0 x1= 526.2 [('ArialMT', 13.0), ('TimesNewRomanPSMT', 13.0)] | ○ Live deployment ensures accessibility to users worldwide, enhancing 
+y=  452.4 x0= 162.0 x1= 346.8 [('TimesNewRomanPSMT', 13.0)] | the company’s visibility and reach. 
+y=  418.0 x0= 108.0 x1= 316.6 [('TimesNewRomanPS-BoldMT', 13.0), ('TimesNewRomanPSMT', 13.0)] | 2. Client Satisfaction and Feedback: 
+y=  383.6 x0= 144.0 x1= 525.8 [('ArialMT', 13.0), ('TimesNewRomanPSMT', 13.0)] | ○ The project has been well-received by the client, who is currently 
+y=  366.4 x0= 162.0 x1= 410.1 [('TimesNewRomanPS-BoldMT', 13.0), ('TimesNewRomanPSMT', 13.0)] | providing feedback for further improvements. 
+y=  332.0 x0= 144.0 x1= 525.9 [('ArialMT', 13.0), ('TimesNewRomanPSMT', 13.0)] | ○ Continuous client feedback allows for iterative updates, ensuring the 
+y=  314.8 x0= 162.0 x1= 481.8 [('TimesNewRomanPSMT', 13.0)] | platform evolves according to user needs and business goals. 
+y=  280.4 x0= 108.0 x1= 283.7 [('TimesNewRomanPS-BoldMT', 13.0), ('TimesNewRomanPSMT', 13.0)] | 3. Enhanced User Experience: 
+y=  245.9 x0= 144.0 x1= 526.4 [('ArialMT', 13.0), ('TimesNewRomanPS-BoldMT', 13.0), ('TimesNewRomanPSMT', 13.0)] | ○ The website offers an intuitive navigation system, visually 
+y=  228.7 x0= 162.0 x1= 509.9 [('TimesNewRomanPSMT', 13.0)] | appealing interface, and interactive components that engage users. 
+y=  194.3 x0= 144.0 x1= 526.5 [('ArialMT', 13.0), ('TimesNewRomanPSMT', 13.0)] | ○ Visitors can explore products, services, and partner details 
+y=  177.1 x0= 162.0 x1= 526.0 [('TimesNewRomanPS-BoldMT', 13.0), ('TimesNewRomanPSMT', 13.0)] | seamlessly, leading to a better understanding of the company’s 
+y=  159.9 x0= 162.0 x1= 217.6 [('TimesNewRomanPS-BoldMT', 13.0), ('TimesNewRomanPSMT', 13.0)] | offerings. 
+y=   40.4 x0= 300.6 x1= 315.6 [('TimesNewRomanPSMT', 12.0)] | 25 
+==== PAGE 35 ====
+y=  757.9 x0= 108.0 x1= 385.0 [('TimesNewRomanPS-BoldMT', 13.0), ('TimesNewRomanPSMT', 13.0)] | 4. Comprehensive Product & Partner Showcase: 
+y=  723.4 x0= 144.0 x1= 526.3 [('ArialMT', 13.0), ('TimesNewRomanPS-BoldMT', 13.0), ('TimesNewRomanPSMT', 13.0)] | ○ Detailed presentations of services across hotels, hospitals, and 
+y=  706.2 x0= 162.0 x1= 526.4 [('TimesNewRomanPS-BoldMT', 13.0), ('TimesNewRomanPSMT', 13.0)] | institutions help users and potential clients make informed 
+y=  689.0 x0= 162.0 x1= 216.9 [('TimesNewRomanPSMT', 13.0)] | decisions. 
+y=  654.6 x0= 144.0 x1= 526.1 [('ArialMT', 13.0), ('TimesNewRomanPS-BoldMT', 13.0), ('TimesNewRomanPSMT', 13.0)] | ○ Partner information and client feedback build trust, credibility, and 
+y=  637.4 x0= 162.0 x1= 312.3 [('TimesNewRomanPS-BoldMT', 13.0), ('TimesNewRomanPSMT', 13.0)] | transparency for the brand. 
+y=  603.0 x0= 108.0 x1= 305.4 [('TimesNewRomanPS-BoldMT', 13.0), ('TimesNewRomanPSMT', 13.0)] | 5. Accessibility & Responsiveness: 
+y=  568.6 x0= 144.0 x1= 526.3 [('ArialMT', 13.0), ('TimesNewRomanPS-BoldMT', 13.0), ('TimesNewRomanPSMT', 13.0)] | ○ The platform is fully responsive and optimized for various devices, 
+y=  551.4 x0= 162.0 x1= 411.4 [('TimesNewRomanPSMT', 13.0)] | including desktops, tablets, and mobile phones. 
+y=  516.9 x0= 144.0 x1= 526.5 [('ArialMT', 13.0), ('TimesNewRomanPSMT', 13.0)] | ○ Accessibility features, such as alternative texts for images and 
+y=  499.7 x0= 162.0 x1= 477.9 [('TimesNewRomanPS-BoldMT', 13.0), ('TimesNewRomanPSMT', 13.0)] | keyboard navigation, ensure a wider reach and inclusivity. 
+y=  465.4 x0= 108.0 x1= 279.0 [('TimesNewRomanPS-BoldMT', 13.0), ('TimesNewRomanPSMT', 13.0)] | 6. Modern Technology Stack: 
+y=  430.9 x0= 144.0 x1= 525.8 [('ArialMT', 13.0), ('TimesNewRomanPS-BoldMT', 13.0), ('TimesNewRomanPSMT', 13.0)] | ○ Using React.js and Tailwind CSS allowed for a scalable, 
+y=  413.7 x0= 162.0 x1= 433.9 [('TimesNewRomanPS-BoldMT', 13.0), ('TimesNewRomanPSMT', 13.0)] | maintainable, and visually consistent application. 
+y=  379.3 x0= 144.0 x1= 525.8 [('ArialMT', 13.0), ('TimesNewRomanPSMT', 13.0)] | ○ The modular architecture enables easy updates, feature additions, 
+y=  362.1 x0= 162.0 x1= 347.8 [('TimesNewRomanPSMT', 13.0)] | and future scalability for the client. 
+y=  327.7 x0= 108.0 x1= 293.8 [('TimesNewRomanPS-BoldMT', 13.0), ('TimesNewRomanPSMT', 13.0)] | 7. Testing & Quality Assurance: 
+y=  293.3 x0= 144.0 x1= 526.3 [('ArialMT', 13.0), ('TimesNewRomanPS-BoldMT', 13.0), ('TimesNewRomanPSMT', 13.0)] | ○ The project underwent rigorous functional and design testing, 
+y=  276.1 x0= 162.0 x1= 525.9 [('TimesNewRomanPSMT', 13.0)] | ensuring smooth performance and eliminating errors before 
+y=  258.9 x0= 162.0 x1= 229.9 [('TimesNewRomanPSMT', 13.0)] | deployment. 
+y=  195.3 x0=  90.0 x1= 526.2 [('TimesNewRomanPS-BoldMT', 13.0), ('TimesNewRomanPSMT', 13.0)] | Overall, the Heal N Glow project stands as a successful implementation of 
+y=  178.1 x0=  90.0 x1= 526.4 [('TimesNewRomanPS-BoldMT', 13.0), ('TimesNewRomanPSMT', 13.0)] | modern web development practices, meeting client expectations and delivering a 
+y=  160.9 x0=  90.0 x1= 526.3 [('TimesNewRomanPS-BoldMT', 13.0), ('TimesNewRomanPSMT', 13.0)] | platform that is functional, visually appealing, accessible, and scalable. The 
+y=  143.7 x0=  90.0 x1= 526.0 [('TimesNewRomanPSMT', 13.0)] | project not only highlights the company’s services but also provides a strong base 
+y=  126.5 x0=  90.0 x1= 526.0 [('TimesNewRomanPS-BoldMT', 13.0), ('TimesNewRomanPSMT', 13.0)] | for continuous improvement and growth, with client feedback driving future 
+y=  109.3 x0=  90.0 x1= 170.1 [('TimesNewRomanPSMT', 13.0)] | enhancements. 
+y=   40.4 x0= 300.6 x1= 315.6 [('TimesNewRomanPSMT', 12.0)] | 26 
+==== PAGE 36 ====
+y=  738.0 x0=  90.0 x1= 222.9 [('TimesNewRomanPS-BoldMT', 13.0), ('TimesNewRomanPS-BoldMT', 15.0)] | 9.BIBILOGRAPHY 
+y=  708.0 x0= 108.0 x1= 462.1 [('ArialMT', 13.0), ('TimesNewRomanPS-BoldMT', 13.0), ('TimesNewRomanPSMT', 13.0)] | 1. React.js Documentation – Official documentation for React.js. 
+y=  690.8 x0= 126.0 x1= 356.0 [('TimesNewRomanPSMT', 13.0)] |  https://reactjs.org/docs/getting-started.html 
+y=  656.3 x0= 108.0 x1= 474.7 [('ArialMT', 13.0), ('TimesNewRomanPS-BoldMT', 13.0), ('TimesNewRomanPSMT', 13.0)] | 2. Vercel Documentation – Guide for deploying websites on Vercel. 
+y=  639.1 x0= 126.0 x1= 253.4 [('TimesNewRomanPSMT', 13.0)] |  https://vercel.com/docs 
+y=  604.7 x0= 108.0 x1= 526.1 [('ArialMT', 13.0), ('TimesNewRomanPS-BoldMT', 13.0), ('TimesNewRomanPSMT', 13.0)] | 3. MDN Web Docs – HTML, CSS, JavaScript – Reference for core web 
+y=  587.5 x0= 126.0 x1= 198.2 [('TimesNewRomanPSMT', 13.0)] | technologies. 
+y=  570.3 x0= 126.0 x1= 281.7 [('TimesNewRomanPSMT', 13.0)] |  https://developer.mozilla.org 
+y=  535.9 x0= 108.0 x1= 526.3 [('ArialMT', 13.0), ('TimesNewRomanPS-BoldMT', 13.0), ('TimesNewRomanPSMT', 13.0)] | 4. W3Schools – Web Development Tutorials – For learning and 
+y=  518.7 x0= 126.0 x1= 434.6 [('TimesNewRomanPSMT', 13.0)] | implementing responsive design and accessibility features. 
+y=  501.5 x0= 126.0 x1= 279.7 [('TimesNewRomanPSMT', 13.0)] |  https://www.w3schools.com 
+y=  467.0 x0= 108.0 x1= 526.5 [('ArialMT', 13.0), ('TimesNewRomanPS-BoldMT', 13.0), ('TimesNewRomanPSMT', 13.0)] | 5. YouTube Tutorials & Guides – Various tutorials for React.js and Tailwind 
+y=  449.8 x0= 126.0 x1= 387.3 [('TimesNewRomanPSMT', 13.0)] | CSS integration and UI/UX design best practices. 
+y=  415.4 x0= 108.0 x1= 526.5 [('ArialMT', 13.0), ('TimesNewRomanPS-BoldMT', 13.0), ('TimesNewRomanPSMT', 13.0)] | 6. Client & Project Requirements Documents – Internal project 
+y=  398.2 x0= 126.0 x1= 440.2 [('TimesNewRomanPSMT', 13.0)] | documentation and requirements provided by Heal N Glow. 
+y=  363.8 x0= 108.0 x1= 523.0 [('ArialMT', 13.0), ('TimesNewRomanPS-BoldMT', 13.0), ('TimesNewRomanPSMT', 13.0)] | 7. Framer Motion Documentation – For animation and interactive elements. 
+y=  341.3 x0= 126.0 x1= 295.9 [('TimesNewRomanPSMT', 13.0)] | https://www.framer.com/motion 
+y=  318.8 x0= 108.0 x1= 525.8 [('ArialMT', 13.0), ('TimesNewRomanPS-BoldMT', 13.0), ('TimesNewRomanPSMT', 13.0)] | 8. Web3Forms Documentation – For integrating contact forms and backend 
+y=  301.6 x0= 126.0 x1= 174.4 [('TimesNewRomanPSMT', 13.0)] | services. 
+y=  284.4 x0= 126.0 x1= 276.9 [('TimesNewRomanPSMT', 13.0)] | https://web3forms.com/docs 
+y=   40.4 x0= 300.6 x1= 315.6 [('TimesNewRomanPSMT', 12.0)] | 27 
+==== PAGE 37 ====
+y=  738.0 x0=  90.0 x1= 212.1 [('TimesNewRomanPS-BoldMT', 15.0)] | 10. APPENDICES 
+y=  701.5 x0=  90.0 x1= 369.8 [('TimesNewRomanPS-BoldMT', 13.0)] | 10.1 APPENDIX - A PROJECT SCREENSHOTS 
+y=  667.1 x0=  90.0 x1= 177.1 [('TimesNewRomanPS-BoldMT', 13.0)] | HOMEPAGE : 
+y=   40.4 x0= 300.6 x1= 315.6 [('TimesNewRomanPSMT', 12.0)] | 28 
+==== PAGE 38 ====
+y=   40.4 x0= 300.6 x1= 315.6 [('TimesNewRomanPSMT', 12.0)] | 29 
+==== PAGE 39 ====
+y=  740.7 x0=  90.0 x1= 192.7 [('TimesNewRomanPS-BoldMT', 13.0)] | HOTELS PAGE : 
+y=   40.4 x0= 300.6 x1= 315.6 [('TimesNewRomanPSMT', 12.0)] | 30 
+==== PAGE 40 ====
+y=  288.3 x0=  90.0 x1= 212.6 [('TimesNewRomanPS-BoldMT', 13.0)] | HOSPITALS PAGE : 
+y=   40.4 x0= 300.6 x1= 315.6 [('TimesNewRomanPSMT', 12.0)] | 31 
+==== PAGE 41 ====
+y=   40.4 x0= 300.6 x1= 315.6 [('TimesNewRomanPSMT', 12.0)] | 32 
+==== PAGE 42 ====
+y=  757.9 x0=  90.0 x1= 251.2 [('TimesNewRomanPS-BoldMT', 13.0)] | INSTITUTIONALS PAGE : 
+y=   40.4 x0= 300.6 x1= 315.6 [('TimesNewRomanPSMT', 12.0)] | 33 
+==== PAGE 43 ====
+y=  555.9 x0=  90.0 x1= 155.7 [('TimesNewRomanPS-BoldMT', 13.0)] | FOOTER : 
+y=  388.1 x0=  90.0 x1= 147.0 [('TimesNewRomanPS-BoldMT', 13.0)] | ABOUT : 
+y=   40.4 x0= 300.6 x1= 315.6 [('TimesNewRomanPSMT', 12.0)] | 34 
+==== PAGE 44 ====
+y=   40.4 x0= 300.6 x1= 315.6 [('TimesNewRomanPSMT', 12.0)] | 35 

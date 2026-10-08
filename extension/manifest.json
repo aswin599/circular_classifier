@@ -1,0 +1,46 @@
+{
+  "manifest_version": 3,
+  "name": "Circular Classifier",
+  "version": "2.3.0",
+  "description": "Shows a floating button while reading an email in Gmail; clicking it opens the circular summary popup for the last 3 days.",
+  "permissions": ["storage", "scripting", "tabs"],
+  "host_permissions": [
+    "https://mail.google.com/*",
+    "http://localhost:5173/*",
+    "http://127.0.0.1:5173/*",
+    "http://localhost:5000/*",
+    "http://127.0.0.1:5000/*"
+  ],
+  "optional_host_permissions": ["http://*/*", "https://*/*"],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "content_scripts": [
+    {
+      "matches": ["https://mail.google.com/*"],
+      "js": ["content.js"],
+      "run_at": "document_idle",
+      "match_about_blank": true,
+      "all_frames": true
+    },
+    {
+      "matches": ["http://localhost:5173/*", "http://127.0.0.1:5173/*"],
+      "js": ["appBridge.js"],
+      "run_at": "document_idle"
+    }
+  ],
+  "options_page": "options.html",
+  "action": {
+    "default_title": "Circular Classifier",
+    "default_icon": {
+      "16": "icons/icon16.png",
+      "48": "icons/icon48.png",
+      "128": "icons/icon128.png"
+    }
+  },
+  "icons": {
+    "16": "icons/icon16.png",
+    "48": "icons/icon48.png",
+    "128": "icons/icon128.png"
+  }
+}

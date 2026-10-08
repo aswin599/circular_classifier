@@ -1,0 +1,30 @@
+﻿=== p35 struct=27 export=28
+  sy      struct                                         | ey      export                                         | dy
+  757.9   4. Comprehensive Product & Partner Showcase:   | 757.5   4. Comprehensive Product & Partner Showcase:   | -0.4
+  723.4   Γùï Detailed presentations of services across ho | 722.3   Γùï Detailed presentations of services across ho | -1.1
+  706.2   institutions help users and potential clients  | 705.1   institutions help users and potential clients  | -1.1
+  689.0   decisions.                                     | 687.8   decisions.                                     | -1.2
+  654.6   Γùï Partner information and client feedback buil | 653.5   Γùï Partner information and client feedback buil | -1.1
+  637.4   transparency for the brand.                    | 636.2   transparency for the brand.                    | -1.2
+  603.0   5. Accessibility & Responsiveness:             | 602.6   5. Accessibility & Responsiveness:             | -0.4
+  568.6   Γùï The platform is fully responsive and optimiz | 567.5   Γùï The platform is fully responsive and optimiz | -1.1
+  551.4   including desktops, tablets, and mobile phones | 550.3   including desktops, tablets, and mobile phones | -1.1
+  516.9   Γùï Accessibility features, such as alternative  | 515.8   Γùï Accessibility features, such as alternative  | -1.1
+  499.7   keyboard navigation, ensure a wider reach and  | 498.6   keyboard navigation, ensure a wider reach and  | -1.1
+  465.4   6. Modern Technology Stack:                    | 465.1   6. Modern Technology Stack:                    | -0.3
+  430.9   Γùï Using React.js and Tailwind CSS allowed for  | 429.9   Γùï Using React.js and Tailwind CSS allowed for  | -1.0
+  413.7   maintainable, and visually consistent applicat | 412.6   maintainable, and visually consistent applicat | -1.1
+  379.3   Γùï The modular architecture enables easy update | 378.3   Γùï The modular architecture enables easy update | -1.0
+  362.1   and future scalability for the client.         | 361.0   and future scalability for the client.         | -1.1
+  327.7   7. Testing & Quality Assurance:                | 327.4   7. Testing & Quality Assurance:                | -0.3
+  293.3   Γùï The project underwent rigorous functional an | 292.4   Γùï The project underwent rigorous functional an | -0.9
+  276.1   ensuring smooth performance and eliminating er | 275.1   ensuring smooth performance and eliminating er | -1.0
+  258.9   deployment.                                    | 257.8   deployment.                                    | -1.1
+  195.3   Overall, the Heal N Glow project stands as a s | 194.3   Overall, the Heal N Glow project stands as a s | -1.0
+  178.1   modern web development practices, meeting clie | 177.0   modern web development practices, meeting clie | -1.1
+  160.9   platform that is functional, visually appealin | 159.9   platform that is functional, visually appealin | -1.0
+  143.7   project not only highlights the companyΓÇÖs serv | 142.6   project not only highlights the companyΓÇÖs serv | -1.1
+  126.5   for continuous improvement and growth, with cl | 125.4   for continuous improvement and growth, with cl | -1.1
+  109.3   enhancements.                                  | 108.3   enhancements.                                  | -1.0
+  40.4    26                                             | 40.1    26                                             | -0.3
+  -       no struct line                                 | 705.1   informed                                       | EXTRA

@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Circular Classifier — Settings</title>
+    <style>
+      body {
+        font-family: Inter, 'Segoe UI', Roboto, Arial, sans-serif;
+        background: #fbf6f6;
+        color: #291415;
+        margin: 0;
+        padding: 40px 24px;
+      }
+      .card {
+        max-width: 420px;
+        margin: 0 auto;
+        background: #fff;
+        border: 1px solid #f5e2e3;
+        border-radius: 16px;
+        padding: 28px;
+        box-shadow: 0 1px 3px rgba(0, 0, 0, 0.08), 0 1px 2px -1px rgba(0, 0, 0, 0.06);
+      }
+      h1 {
+        font-size: 18px;
+        margin: 0 0 6px;
+      }
+      p.hint {
+        font-size: 13px;
+        color: #7c4649;
+        margin: 0 0 20px;
+      }
+      label {
+        display: block;
+        font-size: 13px;
+        font-weight: 600;
+        color: #5e3437;
+        margin-bottom: 6px;
+      }
+      label.spaced {
+        margin-top: 14px;
+      }
+      input {
+        width: 100%;
+        box-sizing: border-box;
+        padding: 9px 12px;
+        border: 1px solid #ebced0;
+        border-radius: 8px;
+        font-size: 14px;
+        color: #291415;
+      }
+      input:focus {
+        outline: none;
+        border-color: #b67d80;
+        box-shadow: 0 0 0 3px #f5e2e3;
+      }
+      button {
+        margin-top: 18px;
+        width: 100%;
+        padding: 10px 14px;
+        border: none;
+        border-radius: 8px;
+        background: linear-gradient(135deg, #7c4649 0%, #995c60 100%);
+        color: #fff;
+        font-size: 14px;
+        font-weight: 600;
+        cursor: pointer;
+      }
+      button:hover {
+        filter: brightness(1.08);
+      }
+      #status {
+        margin-top: 14px;
+        font-size: 13px;
+        text-align: center;
+        color: #7c4649;
+        height: 18px;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="card">
+      <h1>Circular Classifier</h1>
+      <p class="hint">Where the Circular Hub app and its API are hosted.</p>
+      <label for="appUrl">App URL</label>
+      <input id="appUrl" type="url" placeholder="http://localhost:5173" spellcheck="false" />
+      <label for="apiUrl" class="spaced">API URL</label>
+      <input id="apiUrl" type="url" placeholder="http://localhost:5000" spellcheck="false" />
+      <button id="save">Save</button>
+      <div id="status"></div>
+    </div>
+    <script src="options.js"></script>
+  </body>
+</html>

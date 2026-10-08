@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Circular Classifier</title>
+    <link rel="stylesheet" href="popup.css" />
+  </head>
+  <body>
+    <div class="popup">
+      <header class="header">
+        <div class="brand-icon" aria-hidden="true">
+          <svg width="22" height="22" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+            <path d="M3 7.5A2.5 2.5 0 0 1 5.5 5h13A2.5 2.5 0 0 1 21 7.5v9a2.5 2.5 0 0 1-2.5 2.5h-13A2.5 2.5 0 0 1 3 16.5v-9Z" stroke="#F5E2E3" stroke-width="1.6" stroke-linejoin="round" />
+            <path d="M3.5 8.5 12 14l8.5-5.5" stroke="#F5E2E3" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" />
+          </svg>
+        </div>
+        <div class="brand-text">
+          <h1>Circular Classifier</h1>
+          <p>Past 3 days</p>
+        </div>
+      </header>
+
+      <div id="state" class="state">Loading…</div>
+
+      <table id="summary" class="summary hidden" aria-label="Circular counts by priority">
+        <thead>
+          <tr>
+            <th>Priority</th>
+            <th class="count-col">Count</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr class="row high" data-priority="HIGH" data-key="high">
+            <td class="label">
+              <span class="dot dot-high"></span>
+              High
+            </td>
+            <td class="count">0</td>
+          </tr>
+          <tr class="row medium" data-priority="NORMAL" data-key="medium">
+            <td class="label">
+              <span class="dot dot-medium"></span>
+              Medium
+            </td>
+            <td class="count">0</td>
+          </tr>
+          <tr class="row low" data-priority="LOW" data-key="low">
+            <td class="label">
+              <span class="dot dot-low"></span>
+              Low
+            </td>
+            <td class="count">0</td>
+          </tr>
+        </tbody>
+      </table>
+
+      <button id="sync" class="sync-btn" type="button" disabled hidden>
+        <svg width="15" height="15" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
+          <path d="M20 11A8 8 0 1 0 18.2 16" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" />
+          <path d="M20 5v6h-6" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" />
+        </svg>
+        <span id="sync-label">Sync mailbox</span>
+      </button>
+
+      <p id="status" class="status" role="status"></p>
+
+      <button id="open-app" class="link-btn" type="button">Open Circular Hub →</button>
+    </div>
+
+    <script src="popup.js"></script>
+  </body>
+</html>

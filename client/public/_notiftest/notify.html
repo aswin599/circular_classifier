@@ -1,0 +1,128 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Notification Test (temporary)</title>
+    <style>
+      body {
+        font-family: "Inter", system-ui, sans-serif;
+        display: flex;
+        min-height: 100vh;
+        margin: 0;
+        align-items: center;
+        justify-content: center;
+        background: #f7f1f2;
+      }
+      .card {
+        background: #fff;
+        border-radius: 16px;
+        padding: 40px;
+        text-align: center;
+        box-shadow: 0 10px 30px rgba(124, 70, 73, 0.15);
+        max-width: 420px;
+      }
+      h1 {
+        font-size: 20px;
+        color: #422326;
+        margin: 0 0 8px;
+      }
+      p {
+        color: #8b6b6d;
+        font-size: 14px;
+        margin: 0 0 24px;
+      }
+      button {
+        background: #b67d80;
+        border: none;
+        color: #fff;
+        font-weight: 700;
+        font-size: 14px;
+        padding: 12px 22px;
+        border-radius: 12px;
+        cursor: pointer;
+        transition: opacity 0.15s;
+      }
+      button.secondary {
+        background: #e7d6d7;
+        color: #704f52;
+        margin-left: 8px;
+      }
+      button:hover {
+        opacity: 0.9;
+      }
+      button:disabled {
+        opacity: 0.5;
+        cursor: default;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="card">
+      <h1>Deadline Reminder test</h1>
+      <p>Clicking below shows a native system notification.<br />No backend server is needed.</p>
+      <div>
+        <button id="btn">Show test notification</button>
+        <button id="reset" class="secondary">Reset</button>
+      </div>
+      <p id="status" style="margin-top: 16px; font-size: 12px; color: #b3261e"></p>
+    </div>
+
+    <script>
+      const btn = document.getElementById('btn');
+      const reset = document.getElementById('reset');
+      const status = document.getElementById('status');
+
+      function msg(text, color) {
+        status.style.color = color || '#b3261e';
+        status.textContent = text;
+      }
+
+      btn.addEventListener('click', async () => {
+        status.textContent = '';
+        btn.disabled = true;
+
+        if (!('serviceWorker' in navigator) || !('Notification' in window)) {
+          msg('Browser does not support notifications.');
+          btn.disabled = false;
+          return;
+        }
+
+        const permission = await Notification.requestPermission();
+        if (permission !== 'granted') {
+          msg('Permission denied. Allow notifications in the browser and try again.');
+          btn.disabled = false;
+          return;
+        }
+
+        try {
+          const reg = await navigator.serviceWorker.register('./sw.js', { scope: './' });
+          await navigator.serviceWorker.ready;
+
+          reg.showNotification('Deadline Reminder', {
+            body: 'Expiry — "Project Submission" is due tomorrow.',
+            icon: '/vite.svg',
+            badge: '/vite.svg',
+            vibrate: [100, 50, 100],
+          });
+
+          msg('Sent — check your desktop / notification center.', '#2e7d32');
+        } catch (err) {
+          msg('Error: ' + err.message);
+        } finally {
+          btn.disabled = false;
+        }
+      });
+
+      reset.addEventListener('click', async () => {
+        const reg = await navigator.serviceWorker.getRegistration('./sw.js');
+        if (reg) {
+          await reg.unregister();
+          msg('Test service worker removed.');
+        } else {
+          msg('Nothing registered yet.', '#2e7d32');
+        }
+      });
+    </script>
+  </body>
+</html>

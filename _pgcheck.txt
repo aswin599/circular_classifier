@@ -1,0 +1,23 @@
+﻿python : Traceback (most recent call last):
+At line:1 char:32
++ $env:PYTHONIOENCODING='utf-8'; python -c "
++                                ~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (Traceback (most recent call last)::String) [], RemoteException
+    + FullyQualifiedErrorId : NativeCommandError
+ 
+  File "<string>", line 19, in <module>
+  File "<string>", line 16, in texts
+  File "<string>", line 15, in walk
+  File "<string>", line 15, in walk
+TypeError: 'LTImage' object is not iterable
+=== export page 36 lines: 22
+   top 270.1 'https://web3forms.com/docs'
+   top 289.9 'services.'
+   top 309.8 'backend'
+   top 329.7 '8. Web3Forms Documentation ΓÇô For integrating contact forms and'
+   bot 697.1 'https://reactjs.org/docs/getting-started.html'
+   bot 714.4 '1. React.js Documentation ΓÇô Official documentation for React.js.'
+   bot 746.0 '9.BIBILOGRAPHY'
+=== export page 37 lines: 1
+   top 765.3 '27'
+   bot 765.3 '27'
