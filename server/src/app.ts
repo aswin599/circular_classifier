@@ -21,8 +21,16 @@ import { errorHandler, notFoundHandler } from './middleware/errorHandler';
 
 const app: Application = express();
 
+// Enable trust proxy for cloud deployment (Render, AWS, Cloudflare, etc.)
+app.set('trust proxy', 1);
+
 // Security middleware
-app.use(helmet());
+app.use(
+  helmet({
+    contentSecurityPolicy: false,
+    crossOriginEmbedderPolicy: false,
+  })
+);
 app.use(compression());
 
 // CORS configuration.
@@ -58,6 +66,7 @@ const limiter = rateLimit({
   max: 500, // 500 requests per window
   standardHeaders: true,
   legacyHeaders: false,
+  validate: { xForwardedForHeader: false },
   message: { error: 'Too many requests, please try again later.' },
 });
 
