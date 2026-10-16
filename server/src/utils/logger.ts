@@ -1,12 +1,24 @@
 import winston from 'winston';
+import fs from 'fs';
+import path from 'path';
 
-const { combine, timestamp, errors, json, printf, colorize, align } = winston.format;
+// Ensure logs directory exists
+const logsDir = path.resolve(process.cwd(), 'logs');
+if (!fs.existsSync(logsDir)) {
+  try {
+    fs.mkdirSync(logsDir, { recursive: true });
+  } catch {}
+}
+
+const { combine, timestamp, errors, json, printf, colorize } = winston.format;
 
 const consoleFormat = combine(
   colorize(),
   timestamp({ format: 'YYYY-MM-DD HH:mm:ss' }),
-  align(),
-  printf((info) => `[${info.timestamp}] ${info.level}: ${info.message}`)
+  printf((info) => {
+    const stack = info.stack ? `\n${info.stack}` : '';
+    return `[${info.timestamp}] ${info.level}: ${info.message}${stack}`;
+  })
 );
 
 const fileFormat = combine(

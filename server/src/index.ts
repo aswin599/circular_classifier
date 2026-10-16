@@ -51,7 +51,8 @@ async function start() {
       logger.warn('Classifier training skipped at boot:', err);
     }
 
-    app.listen(config.port, () => {
+    app.listen(config.port, '0.0.0.0', () => {
+      console.log(`🚀 Server running on port ${config.port}`);
       logger.info(`🚀 Server running on port ${config.port}`);
       logger.info(`Environment: ${config.env}`);
       logger.info(`Client URL: ${config.clientUrl}`);
@@ -60,6 +61,7 @@ async function start() {
       startDeadlineReminderJob();
     });
   } catch (err) {
+    console.error('❌ Failed to start server:', err);
     logger.error('Failed to start server:', err);
     process.exit(1);
   }
