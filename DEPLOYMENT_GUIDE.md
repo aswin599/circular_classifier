@@ -44,7 +44,7 @@ git push origin main
    - **Region**: Choose the closest region (e.g. Singapore or Frankfurt)
    - **Branch**: `main`
    - **Runtime**: `Node`
-   - **Build Command**: `npm install && npm run build`
+   - **Build Command**: `npm install --include=dev && npm run build`
    - **Start Command**: `npm start`
    - **Instance Type**: `Free`
 5. Under **Environment Variables**, add:
