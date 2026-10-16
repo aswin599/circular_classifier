@@ -137,7 +137,15 @@ for (const row of document.querySelectorAll('tr[data-priority]')) {
   row.addEventListener('click', () => {
     const priority = row.getAttribute('data-priority');
     const params = new URLSearchParams({ priority, startDate });
-    openApp(`/?${params.toString()}`);
+    const path = `/?${params.toString()}`;
+    sendMessage({ type: 'SHOW_PREVIEW', path }).then((response) => {
+      // If the preview could not be shown, open the app directly so the
+      // priority click always does something useful.
+      if (!response || response.ok === false) {
+        openApp(path);
+      }
+      window.close();
+    });
   });
 }
 

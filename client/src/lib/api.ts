@@ -1,6 +1,6 @@
 import axios, { AxiosError, InternalAxiosRequestConfig } from 'axios';
 
-const API_URL = import.meta.env.VITE_API_URL || 'http://localhost:5000';
+const API_URL = import.meta.env.VITE_API_URL || (import.meta.env.PROD ? '' : 'http://localhost:5000');
 
 const api = axios.create({
   baseURL: API_URL,
@@ -89,6 +89,9 @@ api.interceptors.response.use(
 
 export function getErrorMessage(error: unknown): string {
   if (axios.isAxiosError(error)) {
+    if (!error.response) {
+      return 'Network error: could not reach the server. Check that it is running and try again.';
+    }
     const data = error.response?.data as { error?: string };
     return data?.error || error.message || 'Something went wrong';
   }

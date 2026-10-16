@@ -25,10 +25,25 @@ const app: Application = express();
 app.use(helmet());
 app.use(compression());
 
-// CORS configuration
+// CORS configuration.
+// Allow the configured client origin plus any http://localhost / http://127.0.0.1
+// origin on any port. Opening the client from a slightly different URL (e.g.
+// 127.0.0.1 instead of localhost, or a different Vite port) otherwise makes
+// browsers block the response, which surfaces as a generic "Network Error".
 app.use(
   cors({
-    origin: config.clientUrl,
+    origin(origin, callback) {
+      if (!origin || origin === 'null') {
+        callback(null, true);
+        return;
+      }
+      const clientUrlTrimmed = (config.clientUrl || '').replace(/\/$/, '');
+      const originTrimmed = origin.replace(/\/$/, '');
+      const isAllowed =
+        /^https?:\/\/(localhost|127\.0\.0\.1)(:\d+)?$/i.test(origin) ||
+        originTrimmed === clientUrlTrimmed;
+      callback(null, isAllowed);
+    },
     credentials: true,
   })
 );
@@ -80,6 +95,18 @@ app.use('/api/admin', adminRoutes);
 app.use('/api/processor', processorRoutes);
 app.use('/api', realtimeRoutes);
 app.use('/api/push', pushRoutes);
+
+// Serve client build if available (production or single-service deployment)
+const clientDistPath = path.resolve(__dirname, '../../client/dist');
+if (fs.existsSync(clientDistPath)) {
+  app.use(express.static(clientDistPath));
+  app.get('*', (req: Request, res: Response, next) => {
+    if (req.path.startsWith('/api') || req.path.startsWith('/health')) {
+      return next();
+    }
+    res.sendFile(path.join(clientDistPath, 'index.html'));
+  });
+}
 
 // 404 handler
 app.use(notFoundHandler);

@@ -15,6 +15,12 @@ import {
   IconBell,
 } from '../ui/Icons';
 
+// True when the app is embedded in the extension's preview overlay
+// (Circular Hub — Preview). In that case the left sidebar is hidden so the
+// popup only shows the circulars content.
+const EMBED_PREVIEW =
+  new URLSearchParams(window.location.search).get('preview') === '1';
+
 export default function Layout() {
   const { user, logout } = useAuth();
   const { status, subscribed, enable, disable } = usePushNotifications();
@@ -53,8 +59,9 @@ export default function Layout() {
     <div className="min-h-screen bg-brand-50/50">
       <NewCircularNotification />
 
-      {/* Sidebar */}
-      <aside className="fixed inset-y-0 left-0 z-30 w-64 bg-white border-r border-brand-100 shadow-card">
+      {/* Sidebar (hidden in the extension preview popup) */}
+      {!EMBED_PREVIEW && (
+        <aside className="fixed inset-y-0 left-0 z-30 w-64 bg-white border-r border-brand-100 shadow-card">
         <div className="flex flex-col h-full">
           {/* Brand header */}
           <div className="flex items-center gap-3 px-6 py-5 border-b border-brand-100">
@@ -170,9 +177,10 @@ export default function Layout() {
           </div>
         </div>
       </aside>
+      )}
 
       {/* Main content view */}
-      <main className="pl-64">
+      <main className={EMBED_PREVIEW ? '' : 'pl-64'}>
         <div className="px-8 py-7">
           <Outlet />
         </div>

@@ -1,8 +1,8 @@
 {
   "manifest_version": 3,
   "name": "Circular Classifier",
-  "version": "2.3.0",
-  "description": "Shows a floating button while reading an email in Gmail; clicking it opens the circular summary popup for the last 3 days.",
+  "version": "2.3.1",
+  "description": "Shows a floating button in Gmail; clicking it opens the circular summary popup. Selecting a priority opens a preview overlay of the Circular Hub with a redirect button to the full app.",
   "permissions": ["storage", "scripting", "tabs"],
   "host_permissions": [
     "https://mail.google.com/*",

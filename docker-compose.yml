@@ -1,0 +1,46 @@
+services:
+  mongodb:
+    image: mongo:6.0
+    container_name: circulars-mongodb
+    restart: unless-stopped
+    ports:
+      - "27017:27017"
+    volumes:
+      - mongo-data:/data/db
+    environment:
+      - MONGO_INITDB_DATABASE=circulars_db
+
+  app:
+    build: .
+    container_name: circulars-app
+    restart: unless-stopped
+    ports:
+      - "5000:5000"
+    environment:
+      - NODE_ENV=production
+      - PORT=5000
+      - DATABASE_URL=mongodb://mongodb:27017/circulars_db
+      - CLIENT_URL=http://localhost:5000
+      - JWT_SECRET=change-this-to-a-secure-random-key-in-production
+      - JWT_REFRESH_SECRET=change-this-to-another-secure-random-key
+      # Optional: Email & Google OAuth credentials
+      - EMAIL_HOST=${EMAIL_HOST:-imap.gmail.com}
+      - EMAIL_PORT=${EMAIL_PORT:-993}
+      - EMAIL_USER=${EMAIL_USER:-}
+      - EMAIL_PASSWORD=${EMAIL_PASSWORD:-}
+      - EMAIL_LABEL=${EMAIL_LABEL:-circulars}
+      - STUDENT_TUTOR_EMAIL=${STUDENT_TUTOR_EMAIL:-}
+      - GOOGLE_CLIENT_ID=${GOOGLE_CLIENT_ID:-}
+      - GOOGLE_CLIENT_SECRET=${GOOGLE_CLIENT_SECRET:-}
+      - GOOGLE_REDIRECT_URI=${GOOGLE_REDIRECT_URI:-http://localhost:5000/api/auth/google/callback}
+      - VAPID_PUBLIC_KEY=${VAPID_PUBLIC_KEY:-}
+      - VAPID_PRIVATE_KEY=${VAPID_PRIVATE_KEY:-}
+      - VAPID_SUBJECT=${VAPID_SUBJECT:-mailto:admin@localhost}
+    depends_on:
+      - mongodb
+    volumes:
+      - app-uploads:/app/server/uploads
+
+volumes:
+  mongo-data:
+  app-uploads:

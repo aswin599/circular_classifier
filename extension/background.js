@@ -212,6 +212,51 @@ chrome.runtime.onMessage.addListener((message, sender, sendResponse) => {
     return true;
   }
 
+  if (message.type === 'SHOW_PREVIEW') {
+    const handlePreview = async () => {
+      const settings = await getSettings();
+      const path = typeof message.path === 'string' ? message.path : '';
+      const suffix = path ? (path.startsWith('/') ? path : `/${path}`) : '';
+      const openFallback = () => {
+        console.info('[cc-ext] SHOW_PREVIEW: no Gmail tab available, opening app directly');
+        chrome.tabs.create({ url: `${settings.appUrl}${suffix}` });
+        return { ok: true, fallback: true };
+      };
+
+      const pickGmailTab = async () => {
+        // Prefer the currently focused Gmail tab, then any Gmail tab in the
+        // current window, then any Gmail tab at all.
+        const [active] = await chrome.tabs.query({ active: true, lastFocusedWindow: true });
+        if (active && active.id && active.url && active.url.startsWith('https://mail.google.com/')) {
+          return active;
+        }
+        const [inWindow] = await chrome.tabs.query({ currentWindow: true, url: 'https://mail.google.com/*' });
+        if (inWindow && inWindow.id) return inWindow;
+        const [anywhere] = await chrome.tabs.query({ url: 'https://mail.google.com/*' });
+        return anywhere && anywhere.id ? anywhere : null;
+      };
+
+      try {
+        const tab = await pickGmailTab();
+        if (!tab || !tab.id) return openFallback();
+        // frameId 0 targets the top frame, which is the only one that renders
+        // the overlay. This avoids relying on whichever frame answers first.
+        console.info('[cc-ext] SHOW_PREVIEW: sending to tab', tab.id, path);
+        await chrome.tabs.sendMessage(
+          tab.id,
+          { type: 'SHOW_PREVIEW', path },
+          { frameId: 0 }
+        );
+        return { ok: true, shown: true };
+      } catch (err) {
+        console.warn('[cc-ext] SHOW_PREVIEW: content script unreachable', err);
+        return openFallback();
+      }
+    };
+    handlePreview().then(sendResponse);
+    return true;
+  }
+
   if (message.type === 'GET_SUMMARY') {
     getSettings()
       .then((settings) => {

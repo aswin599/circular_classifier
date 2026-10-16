@@ -1,8 +1,0 @@
-﻿export pages: 44
-p1   hits=14/15 misses=1
-     y=722.1 dy=30.6
-p2   hits=17/18 misses=1
-     y=498.7 dy=2.1
-p32  hits=2/3 misses=1
-     y=285.6 dy=30.9
-geom total baseline misses: 3
